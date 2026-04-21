@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T03:54:14+00:00",
-  "generated_at_unix": 1776743654,
+  "generated_at": "2026-04-21T03:57:57+00:00",
+  "generated_at_unix": 1776743877,
   "location": {
     "name": "Neue Donau Wien",
     "lat": 48.2183,
@@ -5424,7 +5424,7 @@
       "morning_10_12": {
         "wind_kn": 3.5,
         "wind_compass": "OSO",
-        "wind_deg": 111.0,
+        "wind_deg": 110.0,
         "rating": "ZU SCHWACH",
         "spread_kn": 0.9
       },
