@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T19:45:26+00:00",
-  "generated_at_unix": 1777146326,
+  "generated_at": "2026-04-25T20:40:54+00:00",
+  "generated_at_unix": 1777149654,
   "location": {
     "name": "Neue Donau Wien",
     "lat": 48.2183,
@@ -325,19 +325,18 @@
     {
       "time": "2026-04-25T19:00",
       "wind_kn": 10.1,
-      "wind_deg": 269.0,
+      "wind_deg": 267.0,
       "wind_compass": "W",
       "wind_gust_kn": 19.4,
-      "temp_c": 21.6,
+      "temp_c": 22.0,
       "rating": "OK",
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless",
-        "zamg-arome"
+        "open-meteo-gfs_seamless"
       ],
-      "model_count": 4,
-      "spread_kn": 1.1
+      "model_count": 3,
+      "spread_kn": 0.0
     },
     {
       "time": "2026-04-25T20:00",
