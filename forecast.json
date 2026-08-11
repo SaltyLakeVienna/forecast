@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T01:46:45+00:00",
-  "generated_at_unix": 1786412805,
+  "generated_at": "2026-08-11T03:44:32+00:00",
+  "generated_at_unix": 1786419872,
   "location": {
     "name": "Neue Donau Wien",
     "lat": 48.2183,
@@ -37,44 +37,42 @@
     {
       "time": "2026-08-11T01:00",
       "wind_kn": 1.4,
-      "wind_deg": 124.0,
+      "wind_deg": 146.0,
       "wind_compass": "SO",
       "wind_gust_kn": 4.9,
-      "temp_c": 27.5,
+      "temp_c": 27.7,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless",
-        "zamg-arome"
+        "open-meteo-gfs_seamless"
       ],
-      "model_count": 4,
-      "spread_kn": 3.9
+      "model_count": 3,
+      "spread_kn": 3.1
     },
     {
       "time": "2026-08-11T02:00",
-      "wind_kn": 3.1,
-      "wind_deg": 194.0,
-      "wind_compass": "SSW",
+      "wind_kn": 2.4,
+      "wind_deg": 119.0,
+      "wind_compass": "OSO",
       "wind_gust_kn": 2.7,
-      "temp_c": 26.1,
+      "temp_c": 25.5,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless",
-        "zamg-arome"
+        "open-meteo-gfs_seamless"
       ],
-      "model_count": 4,
-      "spread_kn": 8.4
+      "model_count": 3,
+      "spread_kn": 1.4
     },
     {
       "time": "2026-08-11T03:00",
-      "wind_kn": 3.2,
-      "wind_deg": 150.0,
-      "wind_compass": "SSO",
+      "wind_kn": 2.6,
+      "wind_deg": 104.0,
+      "wind_compass": "OSO",
       "wind_gust_kn": 4.1,
-      "temp_c": 25.8,
+      "temp_c": 25.2,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -83,15 +81,15 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 7.1
+      "spread_kn": 4.3
     },
     {
       "time": "2026-08-11T04:00",
-      "wind_kn": 4.2,
-      "wind_deg": 356.0,
+      "wind_kn": 3.7,
+      "wind_deg": 4.0,
       "wind_compass": "N",
       "wind_gust_kn": 6.6,
-      "temp_c": 24.6,
+      "temp_c": 24.1,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -104,7 +102,7 @@
     },
     {
       "time": "2026-08-11T05:00",
-      "wind_kn": 5.6,
+      "wind_kn": 5.2,
       "wind_deg": 290.0,
       "wind_compass": "WNW",
       "wind_gust_kn": 4.5,
@@ -117,15 +115,15 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 9.9
+      "spread_kn": 8.4
     },
     {
       "time": "2026-08-11T06:00",
-      "wind_kn": 6.6,
+      "wind_kn": 7.1,
       "wind_deg": 343.0,
       "wind_compass": "NNW",
       "wind_gust_kn": 6.2,
-      "temp_c": 23.9,
+      "temp_c": 24.2,
       "rating": "GUT",
       "sources": [
         "open-meteo-best_match",
@@ -138,7 +136,7 @@
     },
     {
       "time": "2026-08-11T07:00",
-      "wind_kn": 8.1,
+      "wind_kn": 8.3,
       "wind_deg": 323.0,
       "wind_compass": "NW",
       "wind_gust_kn": 13.4,
@@ -151,7 +149,7 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 1.7
+      "spread_kn": 2.1
     },
     {
       "time": "2026-08-11T08:00",
@@ -168,12 +166,12 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 1.1
+      "spread_kn": 1.2
     },
     {
       "time": "2026-08-11T09:00",
-      "wind_kn": 8.9,
-      "wind_deg": 341.0,
+      "wind_kn": 9.4,
+      "wind_deg": 340.0,
       "wind_compass": "NNW",
       "wind_gust_kn": 16.9,
       "temp_c": 24.8,
@@ -190,7 +188,7 @@
     {
       "time": "2026-08-11T10:00",
       "wind_kn": 8.4,
-      "wind_deg": 338.0,
+      "wind_deg": 337.0,
       "wind_compass": "NNW",
       "wind_gust_kn": 16.5,
       "temp_c": 25.8,
@@ -202,12 +200,12 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 1.3
+      "spread_kn": 1.2
     },
     {
       "time": "2026-08-11T11:00",
       "wind_kn": 8.7,
-      "wind_deg": 337.0,
+      "wind_deg": 334.0,
       "wind_compass": "NNW",
       "wind_gust_kn": 17.1,
       "temp_c": 27.5,
@@ -219,12 +217,12 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 1.5
+      "spread_kn": 1.0
     },
     {
       "time": "2026-08-11T12:00",
       "wind_kn": 8.9,
-      "wind_deg": 334.0,
+      "wind_deg": 332.0,
       "wind_compass": "NNW",
       "wind_gust_kn": 17.3,
       "temp_c": 28.9,
@@ -236,11 +234,11 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 0.6
+      "spread_kn": 0.7
     },
     {
       "time": "2026-08-11T13:00",
-      "wind_kn": 8.9,
+      "wind_kn": 9.1,
       "wind_deg": 337.0,
       "wind_compass": "NNW",
       "wind_gust_kn": 18.1,
@@ -270,11 +268,11 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 1.4
+      "spread_kn": 1.9
     },
     {
       "time": "2026-08-11T15:00",
-      "wind_kn": 9.3,
+      "wind_kn": 9.8,
       "wind_deg": 341.0,
       "wind_compass": "NNW",
       "wind_gust_kn": 19.8,
@@ -287,12 +285,12 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 2.0
+      "spread_kn": 1.7
     },
     {
       "time": "2026-08-11T16:00",
       "wind_kn": 9.8,
-      "wind_deg": 3.0,
+      "wind_deg": 358.0,
       "wind_compass": "N",
       "wind_gust_kn": 19.8,
       "temp_c": 31.1,
@@ -304,7 +302,7 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 2.2
+      "spread_kn": 1.1
     },
     {
       "time": "2026-08-11T17:00",
@@ -321,12 +319,12 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 1.3
+      "spread_kn": 2.2
     },
     {
       "time": "2026-08-11T18:00",
       "wind_kn": 10.5,
-      "wind_deg": 2.0,
+      "wind_deg": 1.0,
       "wind_compass": "N",
       "wind_gust_kn": 20.6,
       "temp_c": 29.9,
@@ -338,7 +336,7 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 2.1
+      "spread_kn": 1.9
     },
     {
       "time": "2026-08-11T19:00",
@@ -355,12 +353,12 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 2.6
+      "spread_kn": 3.6
     },
     {
       "time": "2026-08-11T20:00",
       "wind_kn": 7.6,
-      "wind_deg": 359.0,
+      "wind_deg": 356.0,
       "wind_compass": "N",
       "wind_gust_kn": 17.9,
       "temp_c": 27.7,
@@ -376,7 +374,7 @@
     },
     {
       "time": "2026-08-11T21:00",
-      "wind_kn": 5.7,
+      "wind_kn": 5.9,
       "wind_deg": 9.0,
       "wind_compass": "N",
       "wind_gust_kn": 13.6,
@@ -393,12 +391,12 @@
     },
     {
       "time": "2026-08-11T22:00",
-      "wind_kn": 5.8,
+      "wind_kn": 6.1,
       "wind_deg": 357.0,
       "wind_compass": "N",
       "wind_gust_kn": 10.1,
       "temp_c": 24.6,
-      "rating": "ZU SCHWACH",
+      "rating": "OK",
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
@@ -440,7 +438,7 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 2.7
+      "spread_kn": 2.1
     },
     {
       "time": "2026-08-12T01:00",
@@ -457,12 +455,12 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 1.4
+      "spread_kn": 0.8
     },
     {
       "time": "2026-08-12T02:00",
-      "wind_kn": 6.0,
-      "wind_deg": 3.0,
+      "wind_kn": 6.2,
+      "wind_deg": 2.0,
       "wind_compass": "N",
       "wind_gust_kn": 12.2,
       "temp_c": 20.0,
@@ -474,12 +472,12 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 0.9
+      "spread_kn": 1.9
     },
     {
       "time": "2026-08-12T03:00",
       "wind_kn": 6.0,
-      "wind_deg": 359.0,
+      "wind_deg": 360.0,
       "wind_compass": "N",
       "wind_gust_kn": 11.7,
       "temp_c": 19.3,
@@ -491,16 +489,16 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 1.8
+      "spread_kn": 2.4
     },
     {
       "time": "2026-08-12T04:00",
-      "wind_kn": 5.9,
-      "wind_deg": 358.0,
+      "wind_kn": 6.0,
+      "wind_deg": 357.0,
       "wind_compass": "N",
       "wind_gust_kn": 11.1,
       "temp_c": 18.7,
-      "rating": "ZU SCHWACH",
+      "rating": "OK",
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
@@ -508,15 +506,15 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 1.3
+      "spread_kn": 1.9
     },
     {
       "time": "2026-08-12T05:00",
-      "wind_kn": 5.3,
-      "wind_deg": 351.0,
-      "wind_compass": "N",
+      "wind_kn": 5.9,
+      "wind_deg": 348.0,
+      "wind_compass": "NNW",
       "wind_gust_kn": 11.3,
-      "temp_c": 18.3,
+      "temp_c": 18.2,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -525,7 +523,7 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 1.5
+      "spread_kn": 1.6
     },
     {
       "time": "2026-08-12T06:00",
@@ -546,7 +544,7 @@
     },
     {
       "time": "2026-08-12T07:00",
-      "wind_kn": 5.7,
+      "wind_kn": 5.9,
       "wind_deg": 349.0,
       "wind_compass": "N",
       "wind_gust_kn": 11.3,
@@ -559,7 +557,7 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 1.6
+      "spread_kn": 1.8
     },
     {
       "time": "2026-08-12T08:00",
@@ -580,7 +578,7 @@
     },
     {
       "time": "2026-08-12T09:00",
-      "wind_kn": 6.1,
+      "wind_kn": 6.2,
       "wind_deg": 4.0,
       "wind_compass": "N",
       "wind_gust_kn": 12.2,
@@ -593,12 +591,12 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 0.5
+      "spread_kn": 0.6
     },
     {
       "time": "2026-08-12T10:00",
-      "wind_kn": 6.5,
-      "wind_deg": 11.0,
+      "wind_kn": 6.4,
+      "wind_deg": 10.0,
       "wind_compass": "N",
       "wind_gust_kn": 13.4,
       "temp_c": 22.2,
@@ -614,7 +612,7 @@
     },
     {
       "time": "2026-08-12T11:00",
-      "wind_kn": 6.6,
+      "wind_kn": 6.5,
       "wind_deg": 10.0,
       "wind_compass": "N",
       "wind_gust_kn": 13.6,
@@ -644,7 +642,7 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 1.5
+      "spread_kn": 1.7
     },
     {
       "time": "2026-08-12T13:00",
@@ -661,7 +659,7 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 2.5
+      "spread_kn": 2.7
     },
     {
       "time": "2026-08-12T14:00",
@@ -669,7 +667,7 @@
       "wind_deg": 13.0,
       "wind_compass": "NNO",
       "wind_gust_kn": 13.8,
-      "temp_c": 27.3,
+      "temp_c": 27.2,
       "rating": "BEDINGT",
       "sources": [
         "open-meteo-best_match",
@@ -686,7 +684,7 @@
       "wind_deg": 7.0,
       "wind_compass": "N",
       "wind_gust_kn": 14.0,
-      "temp_c": 27.8,
+      "temp_c": 27.7,
       "rating": "OK",
       "sources": [
         "open-meteo-best_match",
@@ -695,7 +693,7 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 2.1
+      "spread_kn": 2.5
     },
     {
       "time": "2026-08-12T16:00",
@@ -716,8 +714,8 @@
     },
     {
       "time": "2026-08-12T17:00",
-      "wind_kn": 7.3,
-      "wind_deg": 20.0,
+      "wind_kn": 7.2,
+      "wind_deg": 19.0,
       "wind_compass": "NNO",
       "wind_gust_kn": 15.2,
       "temp_c": 27.5,
@@ -729,7 +727,7 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 0.9
+      "spread_kn": 0.6
     },
     {
       "time": "2026-08-12T18:00",
@@ -746,12 +744,12 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 2.1
+      "spread_kn": 2.2
     },
     {
       "time": "2026-08-12T19:00",
       "wind_kn": 7.2,
-      "wind_deg": 48.0,
+      "wind_deg": 52.0,
       "wind_compass": "NO",
       "wind_gust_kn": 17.3,
       "temp_c": 25.9,
@@ -763,12 +761,12 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 0.9
+      "spread_kn": 0.6
     },
     {
       "time": "2026-08-12T20:00",
       "wind_kn": 7.5,
-      "wind_deg": 37.0,
+      "wind_deg": 38.0,
       "wind_compass": "NO",
       "wind_gust_kn": 15.4,
       "temp_c": 24.6,
@@ -780,7 +778,7 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 2.1
+      "spread_kn": 0.9
     },
     {
       "time": "2026-08-12T21:00",
@@ -797,7 +795,7 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 2.7
+      "spread_kn": 2.5
     },
     {
       "time": "2026-08-12T22:00",
@@ -831,12 +829,12 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 0.6
+      "spread_kn": 0.9
     },
     {
       "time": "2026-08-13T00:00",
       "wind_kn": 4.2,
-      "wind_deg": 303.0,
+      "wind_deg": 301.0,
       "wind_compass": "WNW",
       "wind_gust_kn": 8.0,
       "temp_c": 19.9,
@@ -848,12 +846,12 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 0.5
+      "spread_kn": 1.2
     },
     {
       "time": "2026-08-13T01:00",
       "wind_kn": 3.8,
-      "wind_deg": 345.0,
+      "wind_deg": 348.0,
       "wind_compass": "NNW",
       "wind_gust_kn": 7.8,
       "temp_c": 19.2,
@@ -865,7 +863,7 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 1.7
+      "spread_kn": 1.5
     },
     {
       "time": "2026-08-13T02:00",
@@ -882,12 +880,12 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 2.7
+      "spread_kn": 2.5
     },
     {
       "time": "2026-08-13T03:00",
       "wind_kn": 3.4,
-      "wind_deg": 342.0,
+      "wind_deg": 343.0,
       "wind_compass": "NNW",
       "wind_gust_kn": 7.8,
       "temp_c": 18.0,
@@ -899,12 +897,12 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 2.1
+      "spread_kn": 2.0
     },
     {
       "time": "2026-08-13T04:00",
       "wind_kn": 3.5,
-      "wind_deg": 342.0,
+      "wind_deg": 344.0,
       "wind_compass": "NNW",
       "wind_gust_kn": 7.8,
       "temp_c": 17.4,
@@ -933,15 +931,32 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 2.0
+      "spread_kn": 2.9
     },
     {
       "time": "2026-08-13T06:00",
       "wind_kn": 3.3,
-      "wind_deg": 346.0,
-      "wind_compass": "NNW",
+      "wind_deg": 349.0,
+      "wind_compass": "N",
       "wind_gust_kn": 6.0,
       "temp_c": 17.2,
+      "rating": "ZU SCHWACH",
+      "sources": [
+        "open-meteo-best_match",
+        "open-meteo-icon_seamless",
+        "open-meteo-gfs_seamless",
+        "zamg-arome"
+      ],
+      "model_count": 4,
+      "spread_kn": 3.3
+    },
+    {
+      "time": "2026-08-13T07:00",
+      "wind_kn": 3.6,
+      "wind_deg": 351.0,
+      "wind_compass": "N",
+      "wind_gust_kn": 7.0,
+      "temp_c": 17.6,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -953,27 +968,10 @@
       "spread_kn": 2.6
     },
     {
-      "time": "2026-08-13T07:00",
-      "wind_kn": 3.6,
-      "wind_deg": 348.0,
-      "wind_compass": "NNW",
-      "wind_gust_kn": 7.0,
-      "temp_c": 17.6,
-      "rating": "ZU SCHWACH",
-      "sources": [
-        "open-meteo-best_match",
-        "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless",
-        "zamg-arome"
-      ],
-      "model_count": 4,
-      "spread_kn": 2.3
-    },
-    {
       "time": "2026-08-13T08:00",
       "wind_kn": 4.2,
-      "wind_deg": 348.0,
-      "wind_compass": "NNW",
+      "wind_deg": 357.0,
+      "wind_compass": "N",
       "wind_gust_kn": 9.3,
       "temp_c": 18.8,
       "rating": "ZU SCHWACH",
@@ -989,7 +987,7 @@
     {
       "time": "2026-08-13T09:00",
       "wind_kn": 4.0,
-      "wind_deg": 5.0,
+      "wind_deg": 7.0,
       "wind_compass": "N",
       "wind_gust_kn": 9.5,
       "temp_c": 20.4,
@@ -1001,55 +999,58 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 1.6
+      "spread_kn": 3.3
     },
     {
       "time": "2026-08-13T10:00",
-      "wind_kn": 2.8,
-      "wind_deg": 25.0,
+      "wind_kn": 3.9,
+      "wind_deg": 16.0,
       "wind_compass": "NNO",
       "wind_gust_kn": 8.4,
-      "temp_c": 21.1,
+      "temp_c": 22.2,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless"
+        "open-meteo-gfs_seamless",
+        "zamg-arome"
       ],
-      "model_count": 3,
-      "spread_kn": 2.2
+      "model_count": 4,
+      "spread_kn": 3.9
     },
     {
       "time": "2026-08-13T11:00",
-      "wind_kn": 2.6,
-      "wind_deg": 63.0,
-      "wind_compass": "ONO",
+      "wind_kn": 4.0,
+      "wind_deg": 33.0,
+      "wind_compass": "NNO",
       "wind_gust_kn": 7.6,
-      "temp_c": 22.9,
+      "temp_c": 24.1,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless"
+        "open-meteo-gfs_seamless",
+        "zamg-arome"
       ],
-      "model_count": 3,
-      "spread_kn": 2.7
+      "model_count": 4,
+      "spread_kn": 4.2
     },
     {
       "time": "2026-08-13T12:00",
-      "wind_kn": 3.1,
-      "wind_deg": 90.0,
-      "wind_compass": "O",
+      "wind_kn": 4.0,
+      "wind_deg": 50.0,
+      "wind_compass": "NO",
       "wind_gust_kn": 8.6,
-      "temp_c": 24.5,
+      "temp_c": 25.8,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless"
+        "open-meteo-gfs_seamless",
+        "zamg-arome"
       ],
-      "model_count": 3,
-      "spread_kn": 1.8
+      "model_count": 4,
+      "spread_kn": 4.3
     },
     {
       "time": "2026-08-13T13:00",
@@ -2816,7 +2817,7 @@
       "wind_kn": 7.3,
       "wind_deg": 290.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 18.1,
+      "wind_gust_kn": 20.9,
       "temp_c": 23.8,
       "rating": "GUT",
       "sources": [
@@ -2831,7 +2832,7 @@
       "wind_kn": 6.6,
       "wind_deg": 290.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 15.9,
+      "wind_gust_kn": 19.1,
       "temp_c": 23.5,
       "rating": "GUT",
       "sources": [
@@ -2846,7 +2847,7 @@
       "wind_kn": 6.1,
       "wind_deg": 292.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 14.4,
+      "wind_gust_kn": 17.2,
       "temp_c": 23.4,
       "rating": "GUT",
       "sources": [
@@ -2861,7 +2862,7 @@
       "wind_kn": 6.2,
       "wind_deg": 292.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 14.1,
+      "wind_gust_kn": 15.5,
       "temp_c": 23.4,
       "rating": "GUT",
       "sources": [
@@ -2876,7 +2877,7 @@
       "wind_kn": 6.5,
       "wind_deg": 294.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 14.4,
+      "wind_gust_kn": 13.7,
       "temp_c": 23.5,
       "rating": "GUT",
       "sources": [
@@ -2891,7 +2892,7 @@
       "wind_kn": 6.6,
       "wind_deg": 292.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 14.8,
+      "wind_gust_kn": 12.6,
       "temp_c": 24.0,
       "rating": "GUT",
       "sources": [
@@ -2906,7 +2907,7 @@
       "wind_kn": 6.5,
       "wind_deg": 288.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 15.2,
+      "wind_gust_kn": 12.1,
       "temp_c": 25.0,
       "rating": "GUT",
       "sources": [
@@ -2921,7 +2922,7 @@
       "wind_kn": 6.3,
       "wind_deg": 280.0,
       "wind_compass": "W",
-      "wind_gust_kn": 15.9,
+      "wind_gust_kn": 12.1,
       "temp_c": 26.5,
       "rating": "OK",
       "sources": [
@@ -2936,7 +2937,7 @@
       "wind_kn": 6.4,
       "wind_deg": 270.0,
       "wind_compass": "W",
-      "wind_gust_kn": 15.8,
+      "wind_gust_kn": 12.8,
       "temp_c": 28.1,
       "rating": "OK",
       "sources": [
@@ -2951,7 +2952,7 @@
       "wind_kn": 7.2,
       "wind_deg": 258.0,
       "wind_compass": "WSW",
-      "wind_gust_kn": 14.3,
+      "wind_gust_kn": 14.8,
       "temp_c": 29.6,
       "rating": "BEDINGT",
       "sources": [
@@ -2966,7 +2967,7 @@
       "wind_kn": 8.4,
       "wind_deg": 250.0,
       "wind_compass": "WSW",
-      "wind_gust_kn": 12.2,
+      "wind_gust_kn": 17.3,
       "temp_c": 30.8,
       "rating": "BEDINGT",
       "sources": [
@@ -2981,7 +2982,7 @@
       "wind_kn": 9.0,
       "wind_deg": 247.0,
       "wind_compass": "WSW",
-      "wind_gust_kn": 10.7,
+      "wind_gust_kn": 19.1,
       "temp_c": 31.3,
       "rating": "BEDINGT",
       "sources": [
@@ -2996,7 +2997,7 @@
       "wind_kn": 8.8,
       "wind_deg": 254.0,
       "wind_compass": "WSW",
-      "wind_gust_kn": 11.2,
+      "wind_gust_kn": 19.3,
       "temp_c": 30.9,
       "rating": "BEDINGT",
       "sources": [
@@ -3011,7 +3012,7 @@
       "wind_kn": 8.3,
       "wind_deg": 266.0,
       "wind_compass": "W",
-      "wind_gust_kn": 12.7,
+      "wind_gust_kn": 18.9,
       "temp_c": 29.6,
       "rating": "OK",
       "sources": [
@@ -3026,7 +3027,7 @@
       "wind_kn": 8.2,
       "wind_deg": 278.0,
       "wind_compass": "W",
-      "wind_gust_kn": 13.6,
+      "wind_gust_kn": 18.4,
       "temp_c": 28.3,
       "rating": "OK",
       "sources": [
@@ -3041,7 +3042,7 @@
       "wind_kn": 7.8,
       "wind_deg": 289.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 12.9,
+      "wind_gust_kn": 17.8,
       "temp_c": 26.8,
       "rating": "GUT",
       "sources": [
@@ -3056,7 +3057,7 @@
       "wind_kn": 7.1,
       "wind_deg": 299.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 11.8,
+      "wind_gust_kn": 17.2,
       "temp_c": 25.1,
       "rating": "GUT",
       "sources": [
@@ -3071,7 +3072,7 @@
       "wind_kn": 6.7,
       "wind_deg": 304.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 10.8,
+      "wind_gust_kn": 16.7,
       "temp_c": 23.8,
       "rating": "PERFEKT",
       "sources": [
@@ -3086,7 +3087,7 @@
       "wind_kn": 6.6,
       "wind_deg": 303.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 10.6,
+      "wind_gust_kn": 16.6,
       "temp_c": 23.0,
       "rating": "GUT",
       "sources": [
@@ -3101,7 +3102,7 @@
       "wind_kn": 6.7,
       "wind_deg": 298.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 10.7,
+      "wind_gust_kn": 16.9,
       "temp_c": 22.4,
       "rating": "GUT",
       "sources": [
@@ -3116,7 +3117,7 @@
       "wind_kn": 6.9,
       "wind_deg": 295.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 10.4,
+      "wind_gust_kn": 16.8,
       "temp_c": 21.9,
       "rating": "GUT",
       "sources": [
@@ -3131,7 +3132,7 @@
       "wind_kn": 7.0,
       "wind_deg": 294.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 9.4,
+      "wind_gust_kn": 16.8,
       "temp_c": 21.2,
       "rating": "GUT",
       "sources": [
@@ -3146,7 +3147,7 @@
       "wind_kn": 7.0,
       "wind_deg": 296.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 8.3,
+      "wind_gust_kn": 16.8,
       "temp_c": 20.6,
       "rating": "GUT",
       "sources": [
@@ -3161,7 +3162,7 @@
       "wind_kn": 7.0,
       "wind_deg": 298.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 7.5,
+      "wind_gust_kn": 16.7,
       "temp_c": 20.2,
       "rating": "GUT",
       "sources": [
@@ -3176,7 +3177,7 @@
       "wind_kn": 6.9,
       "wind_deg": 300.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 7.5,
+      "wind_gust_kn": 16.8,
       "temp_c": 19.9,
       "rating": "GUT",
       "sources": [
@@ -3191,7 +3192,7 @@
       "wind_kn": 6.8,
       "wind_deg": 299.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 7.8,
+      "wind_gust_kn": 16.9,
       "temp_c": 19.6,
       "rating": "GUT",
       "sources": [
@@ -3206,7 +3207,7 @@
       "wind_kn": 6.7,
       "wind_deg": 300.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 8.6,
+      "wind_gust_kn": 16.6,
       "temp_c": 19.5,
       "rating": "GUT",
       "sources": [
@@ -3221,7 +3222,7 @@
       "wind_kn": 6.5,
       "wind_deg": 302.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 9.8,
+      "wind_gust_kn": 15.6,
       "temp_c": 19.6,
       "rating": "GUT",
       "sources": [
@@ -3236,7 +3237,7 @@
       "wind_kn": 6.2,
       "wind_deg": 303.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 11.4,
+      "wind_gust_kn": 14.4,
       "temp_c": 19.9,
       "rating": "GUT",
       "sources": [
@@ -3251,7 +3252,7 @@
       "wind_kn": 5.8,
       "wind_deg": 306.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 12.9,
+      "wind_gust_kn": 13.1,
       "temp_c": 20.6,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3266,7 +3267,7 @@
       "wind_kn": 5.2,
       "wind_deg": 308.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 14.1,
+      "wind_gust_kn": 12.1,
       "temp_c": 21.9,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3281,7 +3282,7 @@
       "wind_kn": 4.5,
       "wind_deg": 311.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 15.1,
+      "wind_gust_kn": 11.0,
       "temp_c": 23.7,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3296,7 +3297,7 @@
       "wind_kn": 3.6,
       "wind_deg": 314.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 16.0,
+      "wind_gust_kn": 10.2,
       "temp_c": 25.6,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3311,7 +3312,7 @@
       "wind_kn": 3.0,
       "wind_deg": 315.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 17.2,
+      "wind_gust_kn": 9.9,
       "temp_c": 27.4,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3326,7 +3327,7 @@
       "wind_kn": 2.3,
       "wind_deg": 311.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 18.4,
+      "wind_gust_kn": 10.0,
       "temp_c": 29.0,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3341,7 +3342,7 @@
       "wind_kn": 1.9,
       "wind_deg": 315.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 19.2,
+      "wind_gust_kn": 10.2,
       "temp_c": 29.9,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3356,7 +3357,7 @@
       "wind_kn": 1.5,
       "wind_deg": 331.0,
       "wind_compass": "NNW",
-      "wind_gust_kn": 19.5,
+      "wind_gust_kn": 10.5,
       "temp_c": 30.1,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3371,7 +3372,7 @@
       "wind_kn": 1.5,
       "wind_deg": 1.0,
       "wind_compass": "N",
-      "wind_gust_kn": 19.6,
+      "wind_gust_kn": 11.0,
       "temp_c": 29.9,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3386,7 +3387,7 @@
       "wind_kn": 1.6,
       "wind_deg": 26.0,
       "wind_compass": "NNO",
-      "wind_gust_kn": 20.4,
+      "wind_gust_kn": 11.8,
       "temp_c": 29.2,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3401,7 +3402,7 @@
       "wind_kn": 1.8,
       "wind_deg": 51.0,
       "wind_compass": "NO",
-      "wind_gust_kn": 21.9,
+      "wind_gust_kn": 12.8,
       "temp_c": 28.1,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3416,7 +3417,7 @@
       "wind_kn": 2.2,
       "wind_deg": 72.0,
       "wind_compass": "ONO",
-      "wind_gust_kn": 23.5,
+      "wind_gust_kn": 13.7,
       "temp_c": 26.9,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3431,7 +3432,7 @@
       "wind_kn": 2.8,
       "wind_deg": 82.0,
       "wind_compass": "O",
-      "wind_gust_kn": 24.3,
+      "wind_gust_kn": 14.4,
       "temp_c": 25.9,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3446,7 +3447,7 @@
       "wind_kn": 3.3,
       "wind_deg": 84.0,
       "wind_compass": "O",
-      "wind_gust_kn": 23.6,
+      "wind_gust_kn": 14.6,
       "temp_c": 25.0,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3461,7 +3462,7 @@
       "wind_kn": 3.7,
       "wind_deg": 83.0,
       "wind_compass": "O",
-      "wind_gust_kn": 21.9,
+      "wind_gust_kn": 14.5,
       "temp_c": 24.2,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3476,7 +3477,7 @@
       "wind_kn": 4.2,
       "wind_deg": 80.0,
       "wind_compass": "O",
-      "wind_gust_kn": 20.2,
+      "wind_gust_kn": 14.3,
       "temp_c": 23.5,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3491,7 +3492,7 @@
       "wind_kn": 4.8,
       "wind_deg": 78.0,
       "wind_compass": "ONO",
-      "wind_gust_kn": 18.7,
+      "wind_gust_kn": 14.2,
       "temp_c": 22.8,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3506,7 +3507,7 @@
       "wind_kn": 5.2,
       "wind_deg": 76.0,
       "wind_compass": "ONO",
-      "wind_gust_kn": 17.3,
+      "wind_gust_kn": 14.4,
       "temp_c": 22.2,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3521,7 +3522,7 @@
       "wind_kn": 5.6,
       "wind_deg": 74.0,
       "wind_compass": "ONO",
-      "wind_gust_kn": 16.4,
+      "wind_gust_kn": 14.9,
       "temp_c": 21.8,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3536,7 +3537,7 @@
       "wind_kn": 5.7,
       "wind_deg": 76.0,
       "wind_compass": "ONO",
-      "wind_gust_kn": 15.9,
+      "wind_gust_kn": 15.4,
       "temp_c": 21.2,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3551,7 +3552,7 @@
       "wind_kn": 5.5,
       "wind_deg": 76.0,
       "wind_compass": "ONO",
-      "wind_gust_kn": 15.6,
+      "wind_gust_kn": 15.9,
       "temp_c": 20.9,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3566,7 +3567,7 @@
       "wind_kn": 5.3,
       "wind_deg": 76.0,
       "wind_compass": "ONO",
-      "wind_gust_kn": 15.2,
+      "wind_gust_kn": 16.1,
       "temp_c": 20.6,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3581,7 +3582,7 @@
       "wind_kn": 5.0,
       "wind_deg": 76.0,
       "wind_compass": "ONO",
-      "wind_gust_kn": 14.5,
+      "wind_gust_kn": 15.7,
       "temp_c": 20.5,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3596,7 +3597,7 @@
       "wind_kn": 4.8,
       "wind_deg": 78.0,
       "wind_compass": "ONO",
-      "wind_gust_kn": 13.5,
+      "wind_gust_kn": 14.8,
       "temp_c": 20.9,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3611,7 +3612,7 @@
       "wind_kn": 4.3,
       "wind_deg": 80.0,
       "wind_compass": "O",
-      "wind_gust_kn": 12.8,
+      "wind_gust_kn": 13.7,
       "temp_c": 21.6,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3626,7 +3627,7 @@
       "wind_kn": 3.5,
       "wind_deg": 88.0,
       "wind_compass": "O",
-      "wind_gust_kn": 12.6,
+      "wind_gust_kn": 12.4,
       "temp_c": 22.9,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3641,7 +3642,7 @@
       "wind_kn": 2.6,
       "wind_deg": 105.0,
       "wind_compass": "OSO",
-      "wind_gust_kn": 12.7,
+      "wind_gust_kn": 11.2,
       "temp_c": 24.7,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3656,7 +3657,7 @@
       "wind_kn": 2.0,
       "wind_deg": 137.0,
       "wind_compass": "SO",
-      "wind_gust_kn": 13.1,
+      "wind_gust_kn": 10.4,
       "temp_c": 26.7,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3671,7 +3672,7 @@
       "wind_kn": 2.1,
       "wind_deg": 168.0,
       "wind_compass": "SSO",
-      "wind_gust_kn": 13.6,
+      "wind_gust_kn": 10.1,
       "temp_c": 28.6,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3686,7 +3687,7 @@
       "wind_kn": 2.5,
       "wind_deg": 190.0,
       "wind_compass": "S",
-      "wind_gust_kn": 14.3,
+      "wind_gust_kn": 10.3,
       "temp_c": 30.4,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3701,7 +3702,7 @@
       "wind_kn": 2.9,
       "wind_deg": 198.0,
       "wind_compass": "SSW",
-      "wind_gust_kn": 14.7,
+      "wind_gust_kn": 10.4,
       "temp_c": 31.7,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3716,7 +3717,7 @@
       "wind_kn": 2.8,
       "wind_deg": 204.0,
       "wind_compass": "SSW",
-      "wind_gust_kn": 14.6,
+      "wind_gust_kn": 10.4,
       "temp_c": 32.3,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3731,7 +3732,7 @@
       "wind_kn": 2.5,
       "wind_deg": 205.0,
       "wind_compass": "SSW",
-      "wind_gust_kn": 14.4,
+      "wind_gust_kn": 10.4,
       "temp_c": 32.5,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3746,7 +3747,7 @@
       "wind_kn": 2.3,
       "wind_deg": 202.0,
       "wind_compass": "SSW",
-      "wind_gust_kn": 14.3,
+      "wind_gust_kn": 10.4,
       "temp_c": 32.2,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3761,7 +3762,7 @@
       "wind_kn": 1.9,
       "wind_deg": 186.0,
       "wind_compass": "S",
-      "wind_gust_kn": 14.5,
+      "wind_gust_kn": 10.3,
       "temp_c": 31.4,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3776,7 +3777,7 @@
       "wind_kn": 2.2,
       "wind_deg": 108.0,
       "wind_compass": "OSO",
-      "wind_gust_kn": 14.8,
+      "wind_gust_kn": 10.3,
       "temp_c": 30.4,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3791,7 +3792,7 @@
       "wind_kn": 2.4,
       "wind_deg": 104.0,
       "wind_compass": "OSO",
-      "wind_gust_kn": 14.9,
+      "wind_gust_kn": 10.6,
       "temp_c": 29.3,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3806,7 +3807,7 @@
       "wind_kn": 1.1,
       "wind_deg": 93.0,
       "wind_compass": "O",
-      "wind_gust_kn": 14.9,
+      "wind_gust_kn": 11.5,
       "temp_c": 28.1,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3821,7 +3822,7 @@
       "wind_kn": 1.5,
       "wind_deg": 320.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 14.7,
+      "wind_gust_kn": 12.6,
       "temp_c": 26.9,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3836,7 +3837,7 @@
       "wind_kn": 3.5,
       "wind_deg": 296.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 14.3,
+      "wind_gust_kn": 13.6,
       "temp_c": 25.6,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3851,7 +3852,7 @@
       "wind_kn": 5.0,
       "wind_deg": 294.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 13.6,
+      "wind_gust_kn": 13.8,
       "temp_c": 24.4,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -3866,7 +3867,7 @@
       "wind_kn": 6.0,
       "wind_deg": 293.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 12.9,
+      "wind_gust_kn": 14.0,
       "temp_c": 23.2,
       "rating": "GUT",
       "sources": [
@@ -3881,7 +3882,7 @@
       "wind_kn": 6.7,
       "wind_deg": 294.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 12.4,
+      "wind_gust_kn": 14.0,
       "temp_c": 22.5,
       "rating": "GUT",
       "sources": [
@@ -3896,7 +3897,7 @@
       "wind_kn": 6.8,
       "wind_deg": 298.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 12.2,
+      "wind_gust_kn": 14.0,
       "temp_c": 22.0,
       "rating": "GUT",
       "sources": [
@@ -3911,7 +3912,7 @@
       "wind_kn": 6.6,
       "wind_deg": 305.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 12.3,
+      "wind_gust_kn": 13.8,
       "temp_c": 21.8,
       "rating": "PERFEKT",
       "sources": [
@@ -3926,7 +3927,7 @@
       "wind_kn": 6.3,
       "wind_deg": 310.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 12.6,
+      "wind_gust_kn": 14.1,
       "temp_c": 21.8,
       "rating": "PERFEKT",
       "sources": [
@@ -3941,7 +3942,7 @@
       "wind_kn": 6.2,
       "wind_deg": 309.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 12.8,
+      "wind_gust_kn": 14.3,
       "temp_c": 21.9,
       "rating": "PERFEKT",
       "sources": [
@@ -3956,7 +3957,7 @@
       "wind_kn": 6.2,
       "wind_deg": 306.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 13.3,
+      "wind_gust_kn": 14.9,
       "temp_c": 22.1,
       "rating": "PERFEKT",
       "sources": [
@@ -3971,7 +3972,7 @@
       "wind_kn": 6.4,
       "wind_deg": 304.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 13.7,
+      "wind_gust_kn": 15.2,
       "temp_c": 22.4,
       "rating": "PERFEKT",
       "sources": [
@@ -3986,7 +3987,7 @@
       "wind_kn": 6.8,
       "wind_deg": 304.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 14.2,
+      "wind_gust_kn": 15.4,
       "temp_c": 23.1,
       "rating": "PERFEKT",
       "sources": [
@@ -4001,7 +4002,7 @@
       "wind_kn": 7.4,
       "wind_deg": 303.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 14.7,
+      "wind_gust_kn": 15.5,
       "temp_c": 24.0,
       "rating": "GUT",
       "sources": [
@@ -4016,7 +4017,7 @@
       "wind_kn": 8.0,
       "wind_deg": 302.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 15.2,
+      "wind_gust_kn": 15.6,
       "temp_c": 24.9,
       "rating": "GUT",
       "sources": [
@@ -4031,7 +4032,7 @@
       "wind_kn": 8.5,
       "wind_deg": 300.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 15.9,
+      "wind_gust_kn": 15.8,
       "temp_c": 25.6,
       "rating": "GUT",
       "sources": [
@@ -4046,7 +4047,7 @@
       "wind_kn": 8.8,
       "wind_deg": 298.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 16.8,
+      "wind_gust_kn": 16.1,
       "temp_c": 26.4,
       "rating": "GUT",
       "sources": [
@@ -4061,7 +4062,7 @@
       "wind_kn": 8.7,
       "wind_deg": 300.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 17.8,
+      "wind_gust_kn": 16.6,
       "temp_c": 26.9,
       "rating": "GUT",
       "sources": [
@@ -4076,7 +4077,7 @@
       "wind_kn": 8.1,
       "wind_deg": 306.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 18.9,
+      "wind_gust_kn": 17.1,
       "temp_c": 26.9,
       "rating": "PERFEKT",
       "sources": [
@@ -4091,7 +4092,7 @@
       "wind_kn": 7.3,
       "wind_deg": 317.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 20.2,
+      "wind_gust_kn": 18.0,
       "temp_c": 26.9,
       "rating": "PERFEKT",
       "sources": [
@@ -4106,7 +4107,7 @@
       "wind_kn": 6.6,
       "wind_deg": 328.0,
       "wind_compass": "NNW",
-      "wind_gust_kn": 21.6,
+      "wind_gust_kn": 19.1,
       "temp_c": 26.6,
       "rating": "GUT",
       "sources": [
@@ -4121,7 +4122,7 @@
       "wind_kn": 5.8,
       "wind_deg": 332.0,
       "wind_compass": "NNW",
-      "wind_gust_kn": 23.0,
+      "wind_gust_kn": 20.4,
       "temp_c": 26.0,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4136,7 +4137,7 @@
       "wind_kn": 5.7,
       "wind_deg": 326.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 23.9,
+      "wind_gust_kn": 21.4,
       "temp_c": 25.2,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4151,7 +4152,7 @@
       "wind_kn": 5.8,
       "wind_deg": 324.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 24.2,
+      "wind_gust_kn": 22.0,
       "temp_c": 24.5,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4166,7 +4167,7 @@
       "wind_kn": 5.7,
       "wind_deg": 330.0,
       "wind_compass": "NNW",
-      "wind_gust_kn": 23.8,
+      "wind_gust_kn": 22.6,
       "temp_c": 23.8,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4181,7 +4182,7 @@
       "wind_kn": 5.4,
       "wind_deg": 342.0,
       "wind_compass": "NNW",
-      "wind_gust_kn": 22.9,
+      "wind_gust_kn": 22.6,
       "temp_c": 23.1,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4196,7 +4197,7 @@
       "wind_kn": 5.3,
       "wind_deg": 348.0,
       "wind_compass": "NNW",
-      "wind_gust_kn": 21.0,
+      "wind_gust_kn": 21.4,
       "temp_c": 22.4,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4211,7 +4212,7 @@
       "wind_kn": 5.1,
       "wind_deg": 346.0,
       "wind_compass": "NNW",
-      "wind_gust_kn": 18.1,
+      "wind_gust_kn": 18.8,
       "temp_c": 21.8,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4226,7 +4227,7 @@
       "wind_kn": 4.7,
       "wind_deg": 341.0,
       "wind_compass": "NNW",
-      "wind_gust_kn": 14.8,
+      "wind_gust_kn": 15.2,
       "temp_c": 21.1,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4256,7 +4257,7 @@
       "wind_kn": 3.6,
       "wind_deg": 344.0,
       "wind_compass": "NNW",
-      "wind_gust_kn": 11.1,
+      "wind_gust_kn": 11.0,
       "temp_c": 20.3,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4271,7 +4272,7 @@
       "wind_kn": 3.1,
       "wind_deg": 357.0,
       "wind_compass": "N",
-      "wind_gust_kn": 10.3,
+      "wind_gust_kn": 10.1,
       "temp_c": 20.0,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4286,7 +4287,7 @@
       "wind_kn": 2.8,
       "wind_deg": 11.0,
       "wind_compass": "N",
-      "wind_gust_kn": 9.7,
+      "wind_gust_kn": 9.2,
       "temp_c": 19.9,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4301,7 +4302,7 @@
       "wind_kn": 2.5,
       "wind_deg": 21.0,
       "wind_compass": "NNO",
-      "wind_gust_kn": 9.1,
+      "wind_gust_kn": 8.0,
       "temp_c": 19.9,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4316,7 +4317,7 @@
       "wind_kn": 2.3,
       "wind_deg": 33.0,
       "wind_compass": "NNO",
-      "wind_gust_kn": 8.6,
+      "wind_gust_kn": 6.7,
       "temp_c": 20.1,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4331,7 +4332,7 @@
       "wind_kn": 2.2,
       "wind_deg": 50.0,
       "wind_compass": "NO",
-      "wind_gust_kn": 8.2,
+      "wind_gust_kn": 6.2,
       "temp_c": 20.8,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4346,7 +4347,7 @@
       "wind_kn": 2.4,
       "wind_deg": 76.0,
       "wind_compass": "ONO",
-      "wind_gust_kn": 7.7,
+      "wind_gust_kn": 7.0,
       "temp_c": 22.1,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4361,7 +4362,7 @@
       "wind_kn": 3.0,
       "wind_deg": 107.0,
       "wind_compass": "OSO",
-      "wind_gust_kn": 7.1,
+      "wind_gust_kn": 8.4,
       "temp_c": 23.9,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4376,7 +4377,7 @@
       "wind_kn": 3.9,
       "wind_deg": 121.0,
       "wind_compass": "OSO",
-      "wind_gust_kn": 7.0,
+      "wind_gust_kn": 9.8,
       "temp_c": 25.8,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4391,7 +4392,7 @@
       "wind_kn": 4.5,
       "wind_deg": 125.0,
       "wind_compass": "SO",
-      "wind_gust_kn": 7.5,
+      "wind_gust_kn": 10.5,
       "temp_c": 27.6,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4406,7 +4407,7 @@
       "wind_kn": 5.1,
       "wind_deg": 125.0,
       "wind_compass": "SO",
-      "wind_gust_kn": 8.1,
+      "wind_gust_kn": 10.8,
       "temp_c": 29.5,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4421,7 +4422,7 @@
       "wind_kn": 5.2,
       "wind_deg": 124.0,
       "wind_compass": "SO",
-      "wind_gust_kn": 8.6,
+      "wind_gust_kn": 10.7,
       "temp_c": 30.8,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4436,7 +4437,7 @@
       "wind_kn": 4.7,
       "wind_deg": 122.0,
       "wind_compass": "OSO",
-      "wind_gust_kn": 8.8,
+      "wind_gust_kn": 10.3,
       "temp_c": 31.4,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4451,7 +4452,7 @@
       "wind_kn": 3.8,
       "wind_deg": 124.0,
       "wind_compass": "SO",
-      "wind_gust_kn": 8.9,
+      "wind_gust_kn": 9.6,
       "temp_c": 31.5,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4466,7 +4467,7 @@
       "wind_kn": 3.5,
       "wind_deg": 130.0,
       "wind_compass": "SO",
-      "wind_gust_kn": 9.2,
+      "wind_gust_kn": 9.0,
       "temp_c": 31.4,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4481,7 +4482,7 @@
       "wind_kn": 3.4,
       "wind_deg": 124.0,
       "wind_compass": "SO",
-      "wind_gust_kn": 9.4,
+      "wind_gust_kn": 8.0,
       "temp_c": 30.8,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4496,7 +4497,7 @@
       "wind_kn": 3.5,
       "wind_deg": 110.0,
       "wind_compass": "OSO",
-      "wind_gust_kn": 9.6,
+      "wind_gust_kn": 6.9,
       "temp_c": 29.9,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4511,7 +4512,7 @@
       "wind_kn": 3.0,
       "wind_deg": 142.0,
       "wind_compass": "SO",
-      "wind_gust_kn": 9.6,
+      "wind_gust_kn": 7.3,
       "temp_c": 28.9,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4526,7 +4527,7 @@
       "wind_kn": 5.0,
       "wind_deg": 356.0,
       "wind_compass": "N",
-      "wind_gust_kn": 8.9,
+      "wind_gust_kn": 10.3,
       "temp_c": 27.8,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4541,7 +4542,7 @@
       "wind_kn": 7.7,
       "wind_deg": 0.0,
       "wind_compass": "N",
-      "wind_gust_kn": 8.1,
+      "wind_gust_kn": 14.7,
       "temp_c": 26.4,
       "rating": "OK",
       "sources": [
@@ -4556,7 +4557,7 @@
       "wind_kn": 9.7,
       "wind_deg": 7.0,
       "wind_compass": "N",
-      "wind_gust_kn": 7.6,
+      "wind_gust_kn": 18.1,
       "temp_c": 24.9,
       "rating": "OK",
       "sources": [
@@ -4571,7 +4572,7 @@
       "wind_kn": 10.1,
       "wind_deg": 14.0,
       "wind_compass": "NNO",
-      "wind_gust_kn": 8.2,
+      "wind_gust_kn": 20.0,
       "temp_c": 23.6,
       "rating": "BEDINGT",
       "sources": [
@@ -4586,7 +4587,7 @@
       "wind_kn": 9.9,
       "wind_deg": 200.0,
       "wind_compass": "SSW",
-      "wind_gust_kn": 9.4,
+      "wind_gust_kn": 20.9,
       "temp_c": 22.4,
       "rating": "BEDINGT",
       "sources": [
@@ -4601,7 +4602,7 @@
       "wind_kn": 9.7,
       "wind_deg": 204.0,
       "wind_compass": "SSW",
-      "wind_gust_kn": 10.5,
+      "wind_gust_kn": 21.2,
       "temp_c": 21.5,
       "rating": "BEDINGT",
       "sources": [
@@ -4616,7 +4617,7 @@
       "wind_kn": 9.5,
       "wind_deg": 206.0,
       "wind_compass": "SSW",
-      "wind_gust_kn": 10.9,
+      "wind_gust_kn": 21.1,
       "temp_c": 21.2,
       "rating": "BEDINGT",
       "sources": [
@@ -4631,7 +4632,7 @@
       "wind_kn": 9.3,
       "wind_deg": 207.0,
       "wind_compass": "SSW",
-      "wind_gust_kn": 11.2,
+      "wind_gust_kn": 20.1,
       "temp_c": 21.2,
       "rating": "BEDINGT",
       "sources": [
@@ -4646,7 +4647,7 @@
       "wind_kn": 8.9,
       "wind_deg": 208.0,
       "wind_compass": "SSW",
-      "wind_gust_kn": 11.9,
+      "wind_gust_kn": 19.1,
       "temp_c": 21.3,
       "rating": "BEDINGT",
       "sources": [
@@ -4661,7 +4662,7 @@
       "wind_kn": 8.4,
       "wind_deg": 210.0,
       "wind_compass": "SSW",
-      "wind_gust_kn": 13.3,
+      "wind_gust_kn": 18.1,
       "temp_c": 21.3,
       "rating": "BEDINGT",
       "sources": [
@@ -4676,7 +4677,7 @@
       "wind_kn": 7.6,
       "wind_deg": 212.0,
       "wind_compass": "SSW",
-      "wind_gust_kn": 15.2,
+      "wind_gust_kn": 17.1,
       "temp_c": 21.4,
       "rating": "BEDINGT",
       "sources": [
@@ -4691,7 +4692,7 @@
       "wind_kn": 7.3,
       "wind_deg": 215.0,
       "wind_compass": "SW",
-      "wind_gust_kn": 16.8,
+      "wind_gust_kn": 16.2,
       "temp_c": 22.0,
       "rating": "BEDINGT",
       "sources": [
@@ -4706,7 +4707,7 @@
       "wind_kn": 7.5,
       "wind_deg": 216.0,
       "wind_compass": "SW",
-      "wind_gust_kn": 17.8,
+      "wind_gust_kn": 15.4,
       "temp_c": 23.4,
       "rating": "BEDINGT",
       "sources": [
@@ -4721,7 +4722,7 @@
       "wind_kn": 8.3,
       "wind_deg": 215.0,
       "wind_compass": "SW",
-      "wind_gust_kn": 18.4,
+      "wind_gust_kn": 14.8,
       "temp_c": 25.2,
       "rating": "BEDINGT",
       "sources": [
@@ -4736,7 +4737,7 @@
       "wind_kn": 9.3,
       "wind_deg": 215.0,
       "wind_compass": "SW",
-      "wind_gust_kn": 19.3,
+      "wind_gust_kn": 15.3,
       "temp_c": 26.8,
       "rating": "BEDINGT",
       "sources": [
@@ -4751,7 +4752,7 @@
       "wind_kn": 10.4,
       "wind_deg": 216.0,
       "wind_compass": "SW",
-      "wind_gust_kn": 20.3,
+      "wind_gust_kn": 17.5,
       "temp_c": 27.2,
       "rating": "BEDINGT",
       "sources": [
@@ -4766,7 +4767,7 @@
       "wind_kn": 11.3,
       "wind_deg": 217.0,
       "wind_compass": "SW",
-      "wind_gust_kn": 21.1,
+      "wind_gust_kn": 20.3,
       "temp_c": 26.9,
       "rating": "BEDINGT",
       "sources": [
@@ -4781,7 +4782,7 @@
       "wind_kn": 11.4,
       "wind_deg": 218.0,
       "wind_compass": "SW",
-      "wind_gust_kn": 21.8,
+      "wind_gust_kn": 22.4,
       "temp_c": 26.2,
       "rating": "BEDINGT",
       "sources": [
@@ -4796,7 +4797,7 @@
       "wind_kn": 9.8,
       "wind_deg": 222.0,
       "wind_compass": "SW",
-      "wind_gust_kn": 22.1,
+      "wind_gust_kn": 22.6,
       "temp_c": 25.3,
       "rating": "BEDINGT",
       "sources": [
@@ -4811,7 +4812,7 @@
       "wind_kn": 7.5,
       "wind_deg": 231.0,
       "wind_compass": "SW",
-      "wind_gust_kn": 22.2,
+      "wind_gust_kn": 22.0,
       "temp_c": 24.0,
       "rating": "BEDINGT",
       "sources": [
@@ -4826,7 +4827,7 @@
       "wind_kn": 5.7,
       "wind_deg": 252.0,
       "wind_compass": "WSW",
-      "wind_gust_kn": 22.4,
+      "wind_gust_kn": 21.9,
       "temp_c": 22.7,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -4841,7 +4842,7 @@
       "wind_kn": 6.5,
       "wind_deg": 280.0,
       "wind_compass": "W",
-      "wind_gust_kn": 23.0,
+      "wind_gust_kn": 23.4,
       "temp_c": 21.5,
       "rating": "OK",
       "sources": [
@@ -4856,7 +4857,7 @@
       "wind_kn": 8.7,
       "wind_deg": 291.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 24.1,
+      "wind_gust_kn": 25.8,
       "temp_c": 20.5,
       "rating": "GUT",
       "sources": [
@@ -4871,7 +4872,7 @@
       "wind_kn": 10.5,
       "wind_deg": 294.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 25.1,
+      "wind_gust_kn": 27.5,
       "temp_c": 19.9,
       "rating": "GUT",
       "sources": [
@@ -4886,7 +4887,7 @@
       "wind_kn": 11.4,
       "wind_deg": 294.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 26.4,
+      "wind_gust_kn": 28.4,
       "temp_c": 19.4,
       "rating": "GUT",
       "sources": [
@@ -4901,7 +4902,7 @@
       "wind_kn": 11.8,
       "wind_deg": 292.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 27.6,
+      "wind_gust_kn": 28.8,
       "temp_c": 19.1,
       "rating": "GUT",
       "sources": [
@@ -4916,7 +4917,7 @@
       "wind_kn": 11.8,
       "wind_deg": 290.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 28.8,
+      "wind_gust_kn": 29.1,
       "temp_c": 18.9,
       "rating": "GUT",
       "sources": [
@@ -4931,7 +4932,7 @@
       "wind_kn": 11.2,
       "wind_deg": 289.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 29.9,
+      "wind_gust_kn": 29.6,
       "temp_c": 18.6,
       "rating": "GUT",
       "sources": [
@@ -4946,7 +4947,7 @@
       "wind_kn": 10.4,
       "wind_deg": 288.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 30.6,
+      "wind_gust_kn": 29.8,
       "temp_c": 18.3,
       "rating": "GUT",
       "sources": [
@@ -4961,7 +4962,7 @@
       "wind_kn": 9.8,
       "wind_deg": 288.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 30.1,
+      "wind_gust_kn": 29.4,
       "temp_c": 18.1,
       "rating": "GUT",
       "sources": [
@@ -4976,7 +4977,7 @@
       "wind_kn": 9.6,
       "wind_deg": 288.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 28.2,
+      "wind_gust_kn": 28.8,
       "temp_c": 17.8,
       "rating": "GUT",
       "sources": [
@@ -4991,7 +4992,7 @@
       "wind_kn": 9.6,
       "wind_deg": 287.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 25.1,
+      "wind_gust_kn": 27.7,
       "temp_c": 17.5,
       "rating": "GUT",
       "sources": [
@@ -5006,7 +5007,7 @@
       "wind_kn": 9.7,
       "wind_deg": 286.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 21.9,
+      "wind_gust_kn": 26.4,
       "temp_c": 17.4,
       "rating": "GUT",
       "sources": [
@@ -5021,7 +5022,7 @@
       "wind_kn": 9.7,
       "wind_deg": 286.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 19.0,
+      "wind_gust_kn": 25.1,
       "temp_c": 17.4,
       "rating": "GUT",
       "sources": [
@@ -5036,7 +5037,7 @@
       "wind_kn": 9.9,
       "wind_deg": 286.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 16.5,
+      "wind_gust_kn": 24.2,
       "temp_c": 17.5,
       "rating": "GUT",
       "sources": [
@@ -5051,7 +5052,7 @@
       "wind_kn": 10.1,
       "wind_deg": 286.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 14.9,
+      "wind_gust_kn": 23.4,
       "temp_c": 18.1,
       "rating": "GUT",
       "sources": [
@@ -5066,7 +5067,7 @@
       "wind_kn": 10.2,
       "wind_deg": 287.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 14.5,
+      "wind_gust_kn": 22.6,
       "temp_c": 19.0,
       "rating": "GUT",
       "sources": [
@@ -5081,7 +5082,7 @@
       "wind_kn": 10.2,
       "wind_deg": 288.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 14.8,
+      "wind_gust_kn": 22.0,
       "temp_c": 20.5,
       "rating": "GUT",
       "sources": [
@@ -5096,7 +5097,7 @@
       "wind_kn": 10.2,
       "wind_deg": 292.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 15.4,
+      "wind_gust_kn": 21.5,
       "temp_c": 21.9,
       "rating": "GUT",
       "sources": [
@@ -5111,7 +5112,7 @@
       "wind_kn": 10.0,
       "wind_deg": 295.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 15.8,
+      "wind_gust_kn": 20.9,
       "temp_c": 23.0,
       "rating": "GUT",
       "sources": [
@@ -5126,7 +5127,7 @@
       "wind_kn": 9.6,
       "wind_deg": 300.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 16.5,
+      "wind_gust_kn": 20.4,
       "temp_c": 23.7,
       "rating": "GUT",
       "sources": [
@@ -5141,7 +5142,7 @@
       "wind_kn": 9.2,
       "wind_deg": 302.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 17.3,
+      "wind_gust_kn": 19.8,
       "temp_c": 24.2,
       "rating": "GUT",
       "sources": [
@@ -5156,7 +5157,7 @@
       "wind_kn": 8.9,
       "wind_deg": 302.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 18.7,
+      "wind_gust_kn": 19.8,
       "temp_c": 24.3,
       "rating": "GUT",
       "sources": [
@@ -5171,7 +5172,7 @@
       "wind_kn": 8.6,
       "wind_deg": 299.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 20.4,
+      "wind_gust_kn": 19.9,
       "temp_c": 24.2,
       "rating": "GUT",
       "sources": [
@@ -5186,7 +5187,7 @@
       "wind_kn": 8.1,
       "wind_deg": 296.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 21.5,
+      "wind_gust_kn": 19.8,
       "temp_c": 23.8,
       "rating": "GUT",
       "sources": [
@@ -5201,7 +5202,7 @@
       "wind_kn": 7.0,
       "wind_deg": 293.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 21.1,
+      "wind_gust_kn": 19.0,
       "temp_c": 23.0,
       "rating": "GUT",
       "sources": [
@@ -5216,7 +5217,7 @@
       "wind_kn": 5.9,
       "wind_deg": 292.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 20.0,
+      "wind_gust_kn": 17.9,
       "temp_c": 22.1,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -5231,7 +5232,7 @@
       "wind_kn": 5.3,
       "wind_deg": 288.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 19.1,
+      "wind_gust_kn": 17.0,
       "temp_c": 21.3,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -5246,7 +5247,7 @@
       "wind_kn": 5.0,
       "wind_deg": 282.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 18.8,
+      "wind_gust_kn": 16.2,
       "temp_c": 20.5,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -5261,7 +5262,7 @@
       "wind_kn": 5.0,
       "wind_deg": 270.0,
       "wind_compass": "W",
-      "wind_gust_kn": 18.4,
+      "wind_gust_kn": 15.4,
       "temp_c": 19.6,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -5276,7 +5277,7 @@
       "wind_kn": 5.0,
       "wind_deg": 259.0,
       "wind_compass": "W",
-      "wind_gust_kn": 17.4,
+      "wind_gust_kn": 14.5,
       "temp_c": 18.8,
       "rating": "ZU SCHWACH",
       "sources": [
@@ -5290,31 +5291,31 @@
   "daily": [
     {
       "date": "2026-08-11",
-      "wind_kn_avg": 8.2,
+      "wind_kn_avg": 8.4,
       "wind_kn_max": 10.5,
       "temp_max": 31.1,
       "temp_min": 23.5,
       "morning_10_12": {
         "wind_kn": 8.6,
         "wind_compass": "NNW",
-        "wind_deg": 338.0,
+        "wind_deg": 336.0,
         "rating": "GUT",
         "spread_kn": 0.3
       },
       "afternoon_14_16": {
-        "wind_kn": 9.2,
+        "wind_kn": 9.5,
         "wind_compass": "NNW",
         "wind_deg": 340.0,
         "rating": "GUT",
-        "spread_kn": 0.1
+        "spread_kn": 0.6
       }
     },
     {
       "date": "2026-08-12",
       "wind_kn_avg": 6.3,
       "wind_kn_max": 8.1,
-      "temp_max": 27.8,
-      "temp_min": 18.3,
+      "temp_max": 27.7,
+      "temp_min": 18.2,
       "morning_10_12": {
         "wind_kn": 6.5,
         "wind_compass": "N",
@@ -5332,16 +5333,16 @@
     },
     {
       "date": "2026-08-13",
-      "wind_kn_avg": 3.2,
+      "wind_kn_avg": 3.3,
       "wind_kn_max": 4.2,
       "temp_max": 28.1,
       "temp_min": 17.2,
       "morning_10_12": {
-        "wind_kn": 2.7,
-        "wind_compass": "NO",
-        "wind_deg": 44.0,
+        "wind_kn": 4.0,
+        "wind_compass": "NNO",
+        "wind_deg": 25.0,
         "rating": "ZU SCHWACH",
-        "spread_kn": 0.2
+        "spread_kn": 0.1
       },
       "afternoon_14_16": {
         "wind_kn": 3.2,
