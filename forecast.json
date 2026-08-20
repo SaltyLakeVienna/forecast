@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T03:50:26+00:00",
-  "generated_at_unix": 1787197826,
+  "generated_at": "2026-08-20T04:36:47+00:00",
+  "generated_at_unix": 1787200607,
   "location": {
     "name": "Neue Donau Wien",
     "lat": 48.2183,
@@ -68,19 +68,18 @@
     },
     {
       "time": "2026-08-20T03:00",
-      "wind_kn": 2.1,
-      "wind_deg": 175.0,
-      "wind_compass": "S",
+      "wind_kn": 3.3,
+      "wind_deg": 144.0,
+      "wind_compass": "SO",
       "wind_gust_kn": 5.4,
       "temp_c": 20.4,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless",
-        "zamg-arome"
+        "open-meteo-gfs_seamless"
       ],
-      "model_count": 4,
+      "model_count": 3,
       "spread_kn": 2.8
     },
     {
@@ -102,11 +101,45 @@
     },
     {
       "time": "2026-08-20T05:00",
-      "wind_kn": 1.9,
-      "wind_deg": 142.0,
-      "wind_compass": "SO",
+      "wind_kn": 0.7,
+      "wind_deg": 270.0,
+      "wind_compass": "W",
       "wind_gust_kn": 6.8,
-      "temp_c": 21.1,
+      "temp_c": 20.8,
+      "rating": "ZU SCHWACH",
+      "sources": [
+        "open-meteo-best_match",
+        "open-meteo-icon_seamless",
+        "open-meteo-gfs_seamless",
+        "zamg-arome"
+      ],
+      "model_count": 4,
+      "spread_kn": 2.3
+    },
+    {
+      "time": "2026-08-20T06:00",
+      "wind_kn": 2.8,
+      "wind_deg": 138.0,
+      "wind_compass": "SO",
+      "wind_gust_kn": 11.7,
+      "temp_c": 21.4,
+      "rating": "ZU SCHWACH",
+      "sources": [
+        "open-meteo-best_match",
+        "open-meteo-icon_seamless",
+        "open-meteo-gfs_seamless",
+        "zamg-arome"
+      ],
+      "model_count": 4,
+      "spread_kn": 1.2
+    },
+    {
+      "time": "2026-08-20T07:00",
+      "wind_kn": 2.7,
+      "wind_deg": 129.0,
+      "wind_compass": "SO",
+      "wind_gust_kn": 5.1,
+      "temp_c": 21.4,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -118,46 +151,12 @@
       "spread_kn": 1.3
     },
     {
-      "time": "2026-08-20T06:00",
-      "wind_kn": 2.0,
-      "wind_deg": 127.0,
-      "wind_compass": "SO",
-      "wind_gust_kn": 4.5,
-      "temp_c": 21.1,
-      "rating": "ZU SCHWACH",
-      "sources": [
-        "open-meteo-best_match",
-        "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless",
-        "zamg-arome"
-      ],
-      "model_count": 4,
-      "spread_kn": 0.4
-    },
-    {
-      "time": "2026-08-20T07:00",
-      "wind_kn": 1.6,
-      "wind_deg": 106.0,
-      "wind_compass": "OSO",
-      "wind_gust_kn": 4.3,
-      "temp_c": 21.4,
-      "rating": "ZU SCHWACH",
-      "sources": [
-        "open-meteo-best_match",
-        "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless",
-        "zamg-arome"
-      ],
-      "model_count": 4,
-      "spread_kn": 2.6
-    },
-    {
       "time": "2026-08-20T08:00",
-      "wind_kn": 2.1,
-      "wind_deg": 34.0,
-      "wind_compass": "NO",
-      "wind_gust_kn": 4.3,
-      "temp_c": 22.6,
+      "wind_kn": 2.2,
+      "wind_deg": 147.0,
+      "wind_compass": "SSO",
+      "wind_gust_kn": 5.4,
+      "temp_c": 22.8,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -170,11 +169,96 @@
     },
     {
       "time": "2026-08-20T09:00",
-      "wind_kn": 4.7,
-      "wind_deg": 154.0,
-      "wind_compass": "SSO",
-      "wind_gust_kn": 10.1,
-      "temp_c": 23.6,
+      "wind_kn": 3.6,
+      "wind_deg": 117.0,
+      "wind_compass": "OSO",
+      "wind_gust_kn": 15.0,
+      "temp_c": 23.1,
+      "rating": "ZU SCHWACH",
+      "sources": [
+        "open-meteo-best_match",
+        "open-meteo-icon_seamless",
+        "open-meteo-gfs_seamless",
+        "zamg-arome"
+      ],
+      "model_count": 4,
+      "spread_kn": 4.9
+    },
+    {
+      "time": "2026-08-20T10:00",
+      "wind_kn": 3.4,
+      "wind_deg": 174.0,
+      "wind_compass": "S",
+      "wind_gust_kn": 7.8,
+      "temp_c": 25.8,
+      "rating": "ZU SCHWACH",
+      "sources": [
+        "open-meteo-best_match",
+        "open-meteo-icon_seamless",
+        "open-meteo-gfs_seamless",
+        "zamg-arome"
+      ],
+      "model_count": 4,
+      "spread_kn": 7.9
+    },
+    {
+      "time": "2026-08-20T11:00",
+      "wind_kn": 4.6,
+      "wind_deg": 177.0,
+      "wind_compass": "S",
+      "wind_gust_kn": 8.7,
+      "temp_c": 28.4,
+      "rating": "ZU SCHWACH",
+      "sources": [
+        "open-meteo-best_match",
+        "open-meteo-icon_seamless",
+        "open-meteo-gfs_seamless",
+        "zamg-arome"
+      ],
+      "model_count": 4,
+      "spread_kn": 5.7
+    },
+    {
+      "time": "2026-08-20T12:00",
+      "wind_kn": 6.1,
+      "wind_deg": 213.0,
+      "wind_compass": "SSW",
+      "wind_gust_kn": 8.9,
+      "temp_c": 30.2,
+      "rating": "BEDINGT",
+      "sources": [
+        "open-meteo-best_match",
+        "open-meteo-icon_seamless",
+        "open-meteo-gfs_seamless",
+        "zamg-arome"
+      ],
+      "model_count": 4,
+      "spread_kn": 5.7
+    },
+    {
+      "time": "2026-08-20T13:00",
+      "wind_kn": 3.7,
+      "wind_deg": 207.0,
+      "wind_compass": "SSW",
+      "wind_gust_kn": 8.2,
+      "temp_c": 31.6,
+      "rating": "ZU SCHWACH",
+      "sources": [
+        "open-meteo-best_match",
+        "open-meteo-icon_seamless",
+        "open-meteo-gfs_seamless",
+        "zamg-arome"
+      ],
+      "model_count": 4,
+      "spread_kn": 7.4
+    },
+    {
+      "time": "2026-08-20T14:00",
+      "wind_kn": 5.4,
+      "wind_deg": 266.0,
+      "wind_compass": "W",
+      "wind_gust_kn": 12.4,
+      "temp_c": 32.5,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -186,12 +270,12 @@
       "spread_kn": 2.9
     },
     {
-      "time": "2026-08-20T10:00",
-      "wind_kn": 3.7,
-      "wind_deg": 176.0,
-      "wind_compass": "S",
-      "wind_gust_kn": 6.8,
-      "temp_c": 26.3,
+      "time": "2026-08-20T15:00",
+      "wind_kn": 4.4,
+      "wind_deg": 256.0,
+      "wind_compass": "WSW",
+      "wind_gust_kn": 10.5,
+      "temp_c": 32.2,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -200,32 +284,32 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 7.2
+      "spread_kn": 1.8
     },
     {
-      "time": "2026-08-20T11:00",
-      "wind_kn": 4.1,
-      "wind_deg": 198.0,
-      "wind_compass": "SSW",
-      "wind_gust_kn": 8.9,
-      "temp_c": 28.1,
-      "rating": "ZU SCHWACH",
-      "sources": [
-        "open-meteo-best_match",
-        "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless",
-        "zamg-arome"
-      ],
-      "model_count": 4,
-      "spread_kn": 6.7
-    },
-    {
-      "time": "2026-08-20T12:00",
-      "wind_kn": 6.3,
-      "wind_deg": 217.0,
-      "wind_compass": "SW",
+      "time": "2026-08-20T16:00",
+      "wind_kn": 4.0,
+      "wind_deg": 281.0,
+      "wind_compass": "W",
       "wind_gust_kn": 9.1,
-      "temp_c": 30.2,
+      "temp_c": 31.7,
+      "rating": "ZU SCHWACH",
+      "sources": [
+        "open-meteo-best_match",
+        "open-meteo-icon_seamless",
+        "open-meteo-gfs_seamless",
+        "zamg-arome"
+      ],
+      "model_count": 4,
+      "spread_kn": 1.6
+    },
+    {
+      "time": "2026-08-20T17:00",
+      "wind_kn": 6.4,
+      "wind_deg": 67.0,
+      "wind_compass": "ONO",
+      "wind_gust_kn": 16.9,
+      "temp_c": 29.0,
       "rating": "BEDINGT",
       "sources": [
         "open-meteo-best_match",
@@ -234,100 +318,15 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 5.1
-    },
-    {
-      "time": "2026-08-20T13:00",
-      "wind_kn": 7.3,
-      "wind_deg": 303.0,
-      "wind_compass": "WNW",
-      "wind_gust_kn": 13.8,
-      "temp_c": 31.6,
-      "rating": "GUT",
-      "sources": [
-        "open-meteo-best_match",
-        "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless",
-        "zamg-arome"
-      ],
-      "model_count": 4,
-      "spread_kn": 0.9
-    },
-    {
-      "time": "2026-08-20T14:00",
-      "wind_kn": 5.9,
-      "wind_deg": 311.0,
-      "wind_compass": "NW",
-      "wind_gust_kn": 15.4,
-      "temp_c": 31.0,
-      "rating": "ZU SCHWACH",
-      "sources": [
-        "open-meteo-best_match",
-        "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless",
-        "zamg-arome"
-      ],
-      "model_count": 4,
-      "spread_kn": 2.3
-    },
-    {
-      "time": "2026-08-20T15:00",
-      "wind_kn": 6.6,
-      "wind_deg": 277.0,
-      "wind_compass": "W",
-      "wind_gust_kn": 13.2,
-      "temp_c": 31.3,
-      "rating": "OK",
-      "sources": [
-        "open-meteo-best_match",
-        "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless",
-        "zamg-arome"
-      ],
-      "model_count": 4,
-      "spread_kn": 2.6
-    },
-    {
-      "time": "2026-08-20T16:00",
-      "wind_kn": 6.2,
-      "wind_deg": 79.0,
-      "wind_compass": "O",
-      "wind_gust_kn": 24.9,
-      "temp_c": 27.1,
-      "rating": "OK",
-      "sources": [
-        "open-meteo-best_match",
-        "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless",
-        "zamg-arome"
-      ],
-      "model_count": 4,
-      "spread_kn": 4.1
-    },
-    {
-      "time": "2026-08-20T17:00",
-      "wind_kn": 3.7,
-      "wind_deg": 83.0,
-      "wind_compass": "O",
-      "wind_gust_kn": 13.2,
-      "temp_c": 27.0,
-      "rating": "ZU SCHWACH",
-      "sources": [
-        "open-meteo-best_match",
-        "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless",
-        "zamg-arome"
-      ],
-      "model_count": 4,
-      "spread_kn": 3.5
+      "spread_kn": 6.5
     },
     {
       "time": "2026-08-20T18:00",
-      "wind_kn": 3.9,
-      "wind_deg": 13.0,
-      "wind_compass": "NNO",
-      "wind_gust_kn": 11.5,
-      "temp_c": 25.2,
+      "wind_kn": 4.5,
+      "wind_deg": 9.0,
+      "wind_compass": "N",
+      "wind_gust_kn": 14.6,
+      "temp_c": 27.7,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -336,16 +335,16 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 3.3
+      "spread_kn": 4.4
     },
     {
       "time": "2026-08-20T19:00",
-      "wind_kn": 1.9,
-      "wind_deg": 303.0,
-      "wind_compass": "WNW",
-      "wind_gust_kn": 11.7,
-      "temp_c": 24.8,
-      "rating": "ZU SCHWACH",
+      "wind_kn": 8.0,
+      "wind_deg": 323.0,
+      "wind_compass": "NW",
+      "wind_gust_kn": 22.0,
+      "temp_c": 25.1,
+      "rating": "PERFEKT",
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
@@ -353,15 +352,15 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 4.6
+      "spread_kn": 8.0
     },
     {
       "time": "2026-08-20T20:00",
-      "wind_kn": 6.1,
-      "wind_deg": 342.0,
+      "wind_kn": 8.8,
+      "wind_deg": 334.0,
       "wind_compass": "NNW",
-      "wind_gust_kn": 11.5,
-      "temp_c": 22.5,
+      "wind_gust_kn": 17.5,
+      "temp_c": 21.7,
       "rating": "GUT",
       "sources": [
         "open-meteo-best_match",
@@ -374,11 +373,11 @@
     },
     {
       "time": "2026-08-20T21:00",
-      "wind_kn": 1.8,
-      "wind_deg": 360.0,
+      "wind_kn": 4.9,
+      "wind_deg": 350.0,
       "wind_compass": "N",
-      "wind_gust_kn": 10.5,
-      "temp_c": 21.8,
+      "wind_gust_kn": 18.7,
+      "temp_c": 21.1,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -387,15 +386,15 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 4.0
+      "spread_kn": 3.7
     },
     {
       "time": "2026-08-20T22:00",
       "wind_kn": 1.8,
-      "wind_deg": 251.0,
-      "wind_compass": "WSW",
-      "wind_gust_kn": 3.1,
-      "temp_c": 21.7,
+      "wind_deg": 60.0,
+      "wind_compass": "ONO",
+      "wind_gust_kn": 8.9,
+      "temp_c": 21.1,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -404,15 +403,15 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 3.4
+      "spread_kn": 3.5
     },
     {
       "time": "2026-08-20T23:00",
-      "wind_kn": 1.1,
-      "wind_deg": 239.0,
-      "wind_compass": "WSW",
-      "wind_gust_kn": 4.7,
-      "temp_c": 22.0,
+      "wind_kn": 2.4,
+      "wind_deg": 191.0,
+      "wind_compass": "S",
+      "wind_gust_kn": 5.2,
+      "temp_c": 21.1,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -425,11 +424,11 @@
     },
     {
       "time": "2026-08-21T00:00",
-      "wind_kn": 1.0,
-      "wind_deg": 213.0,
-      "wind_compass": "SSW",
-      "wind_gust_kn": 4.5,
-      "temp_c": 21.6,
+      "wind_kn": 1.8,
+      "wind_deg": 172.0,
+      "wind_compass": "S",
+      "wind_gust_kn": 4.3,
+      "temp_c": 21.0,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -442,11 +441,11 @@
     },
     {
       "time": "2026-08-21T01:00",
-      "wind_kn": 2.2,
-      "wind_deg": 46.0,
-      "wind_compass": "NO",
-      "wind_gust_kn": 3.9,
-      "temp_c": 21.3,
+      "wind_kn": 2.3,
+      "wind_deg": 228.0,
+      "wind_compass": "SW",
+      "wind_gust_kn": 4.9,
+      "temp_c": 21.1,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -459,11 +458,11 @@
     },
     {
       "time": "2026-08-21T02:00",
-      "wind_kn": 2.4,
-      "wind_deg": 90.0,
-      "wind_compass": "O",
-      "wind_gust_kn": 6.0,
-      "temp_c": 20.7,
+      "wind_kn": 1.9,
+      "wind_deg": 71.0,
+      "wind_compass": "ONO",
+      "wind_gust_kn": 3.9,
+      "temp_c": 20.8,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -472,15 +471,15 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 4.4
+      "spread_kn": 5.5
     },
     {
       "time": "2026-08-21T03:00",
-      "wind_kn": 2.3,
-      "wind_deg": 340.0,
-      "wind_compass": "NNW",
-      "wind_gust_kn": 4.3,
-      "temp_c": 20.4,
+      "wind_kn": 1.8,
+      "wind_deg": 228.0,
+      "wind_compass": "SW",
+      "wind_gust_kn": 5.2,
+      "temp_c": 20.6,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -489,15 +488,15 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 2.3
+      "spread_kn": 3.0
     },
     {
       "time": "2026-08-21T04:00",
-      "wind_kn": 2.6,
-      "wind_deg": 320.0,
+      "wind_kn": 1.6,
+      "wind_deg": 319.0,
       "wind_compass": "NW",
-      "wind_gust_kn": 6.8,
-      "temp_c": 20.1,
+      "wind_gust_kn": 3.3,
+      "temp_c": 20.3,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -510,11 +509,11 @@
     },
     {
       "time": "2026-08-21T05:00",
-      "wind_kn": 2.1,
-      "wind_deg": 295.0,
-      "wind_compass": "WNW",
-      "wind_gust_kn": 6.4,
-      "temp_c": 20.4,
+      "wind_kn": 0.8,
+      "wind_deg": 256.0,
+      "wind_compass": "WSW",
+      "wind_gust_kn": 5.1,
+      "temp_c": 20.2,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -527,11 +526,11 @@
     },
     {
       "time": "2026-08-21T06:00",
-      "wind_kn": 1.8,
-      "wind_deg": 32.0,
-      "wind_compass": "NNO",
-      "wind_gust_kn": 4.3,
-      "temp_c": 20.6,
+      "wind_kn": 5.1,
+      "wind_deg": 335.0,
+      "wind_compass": "NNW",
+      "wind_gust_kn": 9.7,
+      "temp_c": 20.1,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -540,15 +539,15 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 6.1
+      "spread_kn": 5.4
     },
     {
       "time": "2026-08-21T07:00",
-      "wind_kn": 1.5,
-      "wind_deg": 280.0,
-      "wind_compass": "W",
-      "wind_gust_kn": 5.8,
-      "temp_c": 21.0,
+      "wind_kn": 1.6,
+      "wind_deg": 351.0,
+      "wind_compass": "N",
+      "wind_gust_kn": 8.7,
+      "temp_c": 20.3,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -557,15 +556,15 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 3.7
+      "spread_kn": 3.5
     },
     {
       "time": "2026-08-21T08:00",
-      "wind_kn": 1.0,
-      "wind_deg": 253.0,
-      "wind_compass": "WSW",
-      "wind_gust_kn": 2.3,
-      "temp_c": 21.3,
+      "wind_kn": 1.5,
+      "wind_deg": 55.0,
+      "wind_compass": "NO",
+      "wind_gust_kn": 4.3,
+      "temp_c": 20.5,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -574,15 +573,15 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 2.6
+      "spread_kn": 2.4
     },
     {
       "time": "2026-08-21T09:00",
-      "wind_kn": 2.8,
-      "wind_deg": 105.0,
-      "wind_compass": "OSO",
-      "wind_gust_kn": 5.8,
-      "temp_c": 22.0,
+      "wind_kn": 2.3,
+      "wind_deg": 83.0,
+      "wind_compass": "O",
+      "wind_gust_kn": 5.1,
+      "temp_c": 21.5,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -595,11 +594,11 @@
     },
     {
       "time": "2026-08-21T10:00",
-      "wind_kn": 2.2,
-      "wind_deg": 170.0,
-      "wind_compass": "S",
-      "wind_gust_kn": 5.2,
-      "temp_c": 23.3,
+      "wind_kn": 2.4,
+      "wind_deg": 118.0,
+      "wind_compass": "OSO",
+      "wind_gust_kn": 4.9,
+      "temp_c": 22.5,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -608,15 +607,15 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 1.9
+      "spread_kn": 1.6
     },
     {
       "time": "2026-08-21T11:00",
-      "wind_kn": 3.0,
-      "wind_deg": 145.0,
-      "wind_compass": "SO",
-      "wind_gust_kn": 6.4,
-      "temp_c": 24.9,
+      "wind_kn": 2.0,
+      "wind_deg": 97.0,
+      "wind_compass": "O",
+      "wind_gust_kn": 4.7,
+      "temp_c": 24.5,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -629,11 +628,11 @@
     },
     {
       "time": "2026-08-21T12:00",
-      "wind_kn": 3.9,
-      "wind_deg": 127.0,
-      "wind_compass": "SO",
-      "wind_gust_kn": 7.4,
-      "temp_c": 26.3,
+      "wind_kn": 3.5,
+      "wind_deg": 112.0,
+      "wind_compass": "OSO",
+      "wind_gust_kn": 6.4,
+      "temp_c": 26.1,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -646,11 +645,11 @@
     },
     {
       "time": "2026-08-21T13:00",
-      "wind_kn": 3.9,
-      "wind_deg": 116.0,
+      "wind_kn": 5.0,
+      "wind_deg": 121.0,
       "wind_compass": "OSO",
-      "wind_gust_kn": 7.0,
-      "temp_c": 27.1,
+      "wind_gust_kn": 7.4,
+      "temp_c": 26.9,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
@@ -663,12 +662,12 @@
     },
     {
       "time": "2026-08-21T14:00",
-      "wind_kn": 6.0,
-      "wind_deg": 128.0,
-      "wind_compass": "SO",
-      "wind_gust_kn": 8.9,
-      "temp_c": 27.5,
-      "rating": "PERFEKT",
+      "wind_kn": 6.4,
+      "wind_deg": 122.0,
+      "wind_compass": "OSO",
+      "wind_gust_kn": 10.3,
+      "temp_c": 27.4,
+      "rating": "GUT",
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
@@ -680,11 +679,11 @@
     },
     {
       "time": "2026-08-21T15:00",
-      "wind_kn": 6.9,
-      "wind_deg": 132.0,
+      "wind_kn": 6.8,
+      "wind_deg": 130.0,
       "wind_compass": "SO",
       "wind_gust_kn": 13.6,
-      "temp_c": 28.0,
+      "temp_c": 28.2,
       "rating": "PERFEKT",
       "sources": [
         "open-meteo-best_match",
@@ -697,11 +696,11 @@
     },
     {
       "time": "2026-08-21T16:00",
-      "wind_kn": 6.7,
-      "wind_deg": 128.0,
+      "wind_kn": 7.6,
+      "wind_deg": 126.0,
       "wind_compass": "SO",
-      "wind_gust_kn": 13.2,
-      "temp_c": 27.6,
+      "wind_gust_kn": 14.4,
+      "temp_c": 27.5,
       "rating": "PERFEKT",
       "sources": [
         "open-meteo-best_match",
@@ -714,11 +713,11 @@
     },
     {
       "time": "2026-08-21T17:00",
-      "wind_kn": 7.4,
-      "wind_deg": 116.0,
+      "wind_kn": 7.0,
+      "wind_deg": 122.0,
       "wind_compass": "OSO",
-      "wind_gust_kn": 13.6,
-      "temp_c": 27.4,
+      "wind_gust_kn": 14.0,
+      "temp_c": 27.5,
       "rating": "GUT",
       "sources": [
         "open-meteo-best_match",
@@ -727,15 +726,15 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 1.5
+      "spread_kn": 2.3
     },
     {
       "time": "2026-08-21T18:00",
-      "wind_kn": 6.9,
+      "wind_kn": 7.1,
       "wind_deg": 122.0,
       "wind_compass": "OSO",
-      "wind_gust_kn": 16.3,
-      "temp_c": 26.4,
+      "wind_gust_kn": 13.8,
+      "temp_c": 27.1,
       "rating": "GUT",
       "sources": [
         "open-meteo-best_match",
@@ -748,12 +747,12 @@
     },
     {
       "time": "2026-08-21T19:00",
-      "wind_kn": 7.9,
-      "wind_deg": 148.0,
-      "wind_compass": "SSO",
-      "wind_gust_kn": 17.5,
-      "temp_c": 24.9,
-      "rating": "GUT",
+      "wind_kn": 5.9,
+      "wind_deg": 126.0,
+      "wind_compass": "SO",
+      "wind_gust_kn": 13.8,
+      "temp_c": 26.5,
+      "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
@@ -761,15 +760,15 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 3.1
+      "spread_kn": 3.5
     },
     {
       "time": "2026-08-21T20:00",
-      "wind_kn": 9.0,
-      "wind_deg": 150.0,
+      "wind_kn": 7.9,
+      "wind_deg": 168.0,
       "wind_compass": "SSO",
-      "wind_gust_kn": 16.1,
-      "temp_c": 23.2,
+      "wind_gust_kn": 14.6,
+      "temp_c": 24.7,
       "rating": "GUT",
       "sources": [
         "open-meteo-best_match",
@@ -782,11 +781,11 @@
     },
     {
       "time": "2026-08-21T21:00",
-      "wind_kn": 9.8,
-      "wind_deg": 213.0,
-      "wind_compass": "SSW",
-      "wind_gust_kn": 18.1,
-      "temp_c": 21.3,
+      "wind_kn": 11.1,
+      "wind_deg": 217.0,
+      "wind_compass": "SW",
+      "wind_gust_kn": 18.3,
+      "temp_c": 21.9,
       "rating": "BEDINGT",
       "sources": [
         "open-meteo-best_match",
@@ -795,15 +794,15 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 9.5
+      "spread_kn": 7.0
     },
     {
       "time": "2026-08-21T22:00",
-      "wind_kn": 17.5,
-      "wind_deg": 263.0,
+      "wind_kn": 14.4,
+      "wind_deg": 264.0,
       "wind_compass": "W",
-      "wind_gust_kn": 32.5,
-      "temp_c": 19.8,
+      "wind_gust_kn": 27.6,
+      "temp_c": 20.2,
       "rating": "OK",
       "sources": [
         "open-meteo-best_match",
@@ -812,14 +811,14 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 5.1
+      "spread_kn": 6.2
     },
     {
       "time": "2026-08-21T23:00",
-      "wind_kn": 14.2,
-      "wind_deg": 278.0,
+      "wind_kn": 14.0,
+      "wind_deg": 275.0,
       "wind_compass": "W",
-      "wind_gust_kn": 35.6,
+      "wind_gust_kn": 29.5,
       "temp_c": 19.2,
       "rating": "OK",
       "sources": [
@@ -833,11 +832,11 @@
     },
     {
       "time": "2026-08-22T00:00",
-      "wind_kn": 12.6,
-      "wind_deg": 275.0,
+      "wind_kn": 13.5,
+      "wind_deg": 277.0,
       "wind_compass": "W",
-      "wind_gust_kn": 27.1,
-      "temp_c": 18.7,
+      "wind_gust_kn": 28.8,
+      "temp_c": 18.6,
       "rating": "OK",
       "sources": [
         "open-meteo-best_match",
@@ -850,12 +849,12 @@
     },
     {
       "time": "2026-08-22T01:00",
-      "wind_kn": 10.7,
-      "wind_deg": 284.0,
-      "wind_compass": "WNW",
-      "wind_gust_kn": 25.8,
-      "temp_c": 18.7,
-      "rating": "GUT",
+      "wind_kn": 11.4,
+      "wind_deg": 278.0,
+      "wind_compass": "W",
+      "wind_gust_kn": 25.5,
+      "temp_c": 18.9,
+      "rating": "OK",
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
@@ -863,15 +862,15 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 3.8
+      "spread_kn": 3.4
     },
     {
       "time": "2026-08-22T02:00",
-      "wind_kn": 8.4,
-      "wind_deg": 289.0,
+      "wind_kn": 9.8,
+      "wind_deg": 288.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 20.2,
-      "temp_c": 18.1,
+      "wind_gust_kn": 20.6,
+      "temp_c": 18.8,
       "rating": "GUT",
       "sources": [
         "open-meteo-best_match",
@@ -884,11 +883,11 @@
     },
     {
       "time": "2026-08-22T03:00",
-      "wind_kn": 7.0,
+      "wind_kn": 8.3,
       "wind_deg": 291.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 16.9,
-      "temp_c": 17.9,
+      "wind_gust_kn": 17.5,
+      "temp_c": 18.2,
       "rating": "GUT",
       "sources": [
         "open-meteo-best_match",
@@ -901,12 +900,12 @@
     },
     {
       "time": "2026-08-22T04:00",
-      "wind_kn": 5.8,
-      "wind_deg": 274.0,
+      "wind_kn": 6.6,
+      "wind_deg": 279.0,
       "wind_compass": "W",
-      "wind_gust_kn": 15.0,
-      "temp_c": 17.9,
-      "rating": "ZU SCHWACH",
+      "wind_gust_kn": 15.9,
+      "temp_c": 18.0,
+      "rating": "OK",
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
@@ -914,14 +913,14 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 6.1
+      "spread_kn": 6.0
     },
     {
       "time": "2026-08-22T05:00",
-      "wind_kn": 7.6,
+      "wind_kn": 7.7,
       "wind_deg": 287.0,
       "wind_compass": "WNW",
-      "wind_gust_kn": 15.9,
+      "wind_gust_kn": 15.7,
       "temp_c": 18.2,
       "rating": "GUT",
       "sources": [
@@ -931,7 +930,7 @@
         "zamg-arome"
       ],
       "model_count": 4,
-      "spread_kn": 2.8
+      "spread_kn": 2.7
     },
     {
       "time": "2026-08-22T06:00",
@@ -5303,52 +5302,52 @@
   "daily": [
     {
       "date": "2026-08-20",
-      "wind_kn_avg": 2.5,
-      "wind_kn_max": 7.3,
-      "temp_max": 31.6,
+      "wind_kn_avg": 3.5,
+      "wind_kn_max": 8.8,
+      "temp_max": 32.5,
       "temp_min": 20.4,
       "morning_10_12": {
-        "wind_kn": 3.9,
+        "wind_kn": 4.0,
         "wind_compass": "S",
-        "wind_deg": 187.0,
+        "wind_deg": 176.0,
         "rating": "ZU SCHWACH",
-        "spread_kn": 0.4
+        "spread_kn": 1.2
       },
       "afternoon_14_16": {
-        "wind_kn": 6.2,
-        "wind_compass": "WNW",
-        "wind_deg": 294.0,
-        "rating": "GUT",
-        "spread_kn": 0.7
+        "wind_kn": 4.9,
+        "wind_compass": "W",
+        "wind_deg": 261.0,
+        "rating": "ZU SCHWACH",
+        "spread_kn": 1.0
       }
     },
     {
       "date": "2026-08-21",
-      "wind_kn_avg": 3.5,
-      "wind_kn_max": 17.5,
-      "temp_max": 28.0,
+      "wind_kn_avg": 4.2,
+      "wind_kn_max": 14.4,
+      "temp_max": 28.2,
       "temp_min": 19.2,
       "morning_10_12": {
-        "wind_kn": 2.6,
-        "wind_compass": "SSO",
-        "wind_deg": 158.0,
+        "wind_kn": 2.2,
+        "wind_compass": "OSO",
+        "wind_deg": 108.0,
         "rating": "ZU SCHWACH",
-        "spread_kn": 0.8
+        "spread_kn": 0.4
       },
       "afternoon_14_16": {
-        "wind_kn": 6.5,
+        "wind_kn": 6.6,
         "wind_compass": "SO",
-        "wind_deg": 130.0,
+        "wind_deg": 126.0,
         "rating": "PERFEKT",
-        "spread_kn": 0.9
+        "spread_kn": 0.4
       }
     },
     {
       "date": "2026-08-22",
       "wind_kn_avg": 8.6,
-      "wind_kn_max": 12.6,
+      "wind_kn_max": 13.5,
       "temp_max": 25.5,
-      "temp_min": 17.9,
+      "temp_min": 18.0,
       "morning_10_12": {
         "wind_kn": 8.8,
         "wind_compass": "WNW",
