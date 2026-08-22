@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T08:29:55+00:00",
-  "generated_at_unix": 1787387395,
+  "generated_at": "2026-08-22T09:26:27+00:00",
+  "generated_at_unix": 1787390787,
   "location": {
     "name": "Neue Donau Wien",
     "lat": 48.2183,
@@ -148,7 +148,7 @@
     },
     {
       "time": "2026-08-22T08:00",
-      "wind_kn": 8.3,
+      "wind_kn": 7.3,
       "wind_deg": 278.0,
       "wind_compass": "W",
       "wind_gust_kn": 13.4,
@@ -157,11 +157,10 @@
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless",
-        "zamg-arome"
+        "open-meteo-gfs_seamless"
       ],
-      "model_count": 4,
-      "spread_kn": 3.3
+      "model_count": 3,
+      "spread_kn": 2.0
     },
     {
       "time": "2026-08-22T09:00",
@@ -1996,7 +1995,7 @@
     },
     {
       "time": "2026-08-27T00:00",
-      "wind_kn": 2.2,
+      "wind_kn": 2.1,
       "wind_deg": 75.0,
       "wind_compass": "ONO",
       "wind_gust_kn": 4.8,
@@ -2008,11 +2007,11 @@
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 2.3
+      "spread_kn": 2.4
     },
     {
       "time": "2026-08-27T01:00",
-      "wind_kn": 2.3,
+      "wind_kn": 2.1,
       "wind_deg": 83.0,
       "wind_compass": "O",
       "wind_gust_kn": 5.0,
@@ -2024,12 +2023,12 @@
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 3.8
+      "spread_kn": 4.0
     },
     {
       "time": "2026-08-27T02:00",
-      "wind_kn": 2.4,
-      "wind_deg": 90.0,
+      "wind_kn": 2.3,
+      "wind_deg": 91.0,
       "wind_compass": "O",
       "wind_gust_kn": 5.4,
       "temp_c": 18.5,
@@ -2040,12 +2039,12 @@
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 5.9
+      "spread_kn": 6.0
     },
     {
       "time": "2026-08-27T03:00",
-      "wind_kn": 2.4,
-      "wind_deg": 99.0,
+      "wind_kn": 2.9,
+      "wind_deg": 98.0,
       "wind_compass": "O",
       "wind_gust_kn": 6.0,
       "temp_c": 17.9,
@@ -2056,12 +2055,12 @@
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 6.3
+      "spread_kn": 5.8
     },
     {
       "time": "2026-08-27T04:00",
-      "wind_kn": 2.7,
-      "wind_deg": 111.0,
+      "wind_kn": 3.8,
+      "wind_deg": 105.0,
       "wind_compass": "OSO",
       "wind_gust_kn": 6.6,
       "temp_c": 17.4,
@@ -2072,12 +2071,12 @@
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 6.4
+      "spread_kn": 5.3
     },
     {
       "time": "2026-08-27T05:00",
-      "wind_kn": 3.0,
-      "wind_deg": 117.0,
+      "wind_kn": 4.7,
+      "wind_deg": 107.0,
       "wind_compass": "OSO",
       "wind_gust_kn": 7.8,
       "temp_c": 17.1,
@@ -2088,12 +2087,12 @@
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 6.2
+      "spread_kn": 4.5
     },
     {
       "time": "2026-08-27T06:00",
-      "wind_kn": 3.8,
-      "wind_deg": 120.0,
+      "wind_kn": 5.4,
+      "wind_deg": 111.0,
       "wind_compass": "OSO",
       "wind_gust_kn": 9.1,
       "temp_c": 17.2,
@@ -2104,12 +2103,12 @@
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 5.5
+      "spread_kn": 3.9
     },
     {
       "time": "2026-08-27T07:00",
-      "wind_kn": 4.5,
-      "wind_deg": 121.0,
+      "wind_kn": 5.9,
+      "wind_deg": 113.0,
       "wind_compass": "OSO",
       "wind_gust_kn": 11.1,
       "temp_c": 17.5,
@@ -2120,23 +2119,23 @@
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 4.9
+      "spread_kn": 3.5
     },
     {
       "time": "2026-08-27T08:00",
-      "wind_kn": 5.9,
-      "wind_deg": 124.0,
-      "wind_compass": "SO",
+      "wind_kn": 6.7,
+      "wind_deg": 120.0,
+      "wind_compass": "OSO",
       "wind_gust_kn": 13.8,
       "temp_c": 18.4,
-      "rating": "ZU SCHWACH",
+      "rating": "GUT",
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 3.9
+      "spread_kn": 3.1
     },
     {
       "time": "2026-08-27T09:00",
