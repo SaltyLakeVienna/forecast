@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T08:30:00+00:00",
-  "generated_at_unix": 1787473800,
+  "generated_at": "2026-08-23T09:27:26+00:00",
+  "generated_at_unix": 1787477246,
   "location": {
     "name": "Neue Donau Wien",
     "lat": 48.2183,
@@ -148,20 +148,19 @@
     },
     {
       "time": "2026-08-23T08:00",
-      "wind_kn": 3.1,
-      "wind_deg": 308.0,
-      "wind_compass": "NW",
+      "wind_kn": 2.5,
+      "wind_deg": 302.0,
+      "wind_compass": "WNW",
       "wind_gust_kn": 4.7,
-      "temp_c": 17.2,
+      "temp_c": 16.8,
       "rating": "ZU SCHWACH",
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
-        "open-meteo-gfs_seamless",
-        "zamg-arome"
+        "open-meteo-gfs_seamless"
       ],
-      "model_count": 4,
-      "spread_kn": 2.1
+      "model_count": 3,
+      "spread_kn": 1.2
     },
     {
       "time": "2026-08-23T09:00",
@@ -1996,8 +1995,8 @@
     },
     {
       "time": "2026-08-28T00:00",
-      "wind_kn": 6.6,
-      "wind_deg": 116.0,
+      "wind_kn": 6.9,
+      "wind_deg": 117.0,
       "wind_compass": "OSO",
       "wind_gust_kn": 13.0,
       "temp_c": 22.0,
@@ -2008,12 +2007,12 @@
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 1.9
+      "spread_kn": 2.2
     },
     {
       "time": "2026-08-28T01:00",
-      "wind_kn": 6.9,
-      "wind_deg": 120.0,
+      "wind_kn": 7.5,
+      "wind_deg": 121.0,
       "wind_compass": "OSO",
       "wind_gust_kn": 14.7,
       "temp_c": 21.6,
@@ -2024,12 +2023,12 @@
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 1.9
+      "spread_kn": 2.5
     },
     {
       "time": "2026-08-28T02:00",
-      "wind_kn": 7.1,
-      "wind_deg": 123.0,
+      "wind_kn": 8.0,
+      "wind_deg": 121.0,
       "wind_compass": "OSO",
       "wind_gust_kn": 15.6,
       "temp_c": 21.2,
@@ -2040,28 +2039,28 @@
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 2.8
+      "spread_kn": 3.7
     },
     {
       "time": "2026-08-28T03:00",
-      "wind_kn": 6.7,
-      "wind_deg": 126.0,
-      "wind_compass": "SO",
+      "wind_kn": 8.6,
+      "wind_deg": 123.0,
+      "wind_compass": "OSO",
       "wind_gust_kn": 15.2,
       "temp_c": 20.7,
-      "rating": "PERFEKT",
+      "rating": "GUT",
       "sources": [
         "open-meteo-best_match",
         "open-meteo-icon_seamless",
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 2.9
+      "spread_kn": 4.8
     },
     {
       "time": "2026-08-28T04:00",
-      "wind_kn": 6.5,
-      "wind_deg": 127.0,
+      "wind_kn": 9.1,
+      "wind_deg": 125.0,
       "wind_compass": "SO",
       "wind_gust_kn": 14.8,
       "temp_c": 20.3,
@@ -2072,12 +2071,12 @@
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 3.4
+      "spread_kn": 6.0
     },
     {
       "time": "2026-08-28T05:00",
-      "wind_kn": 6.4,
-      "wind_deg": 128.0,
+      "wind_kn": 9.4,
+      "wind_deg": 127.0,
       "wind_compass": "SO",
       "wind_gust_kn": 14.6,
       "temp_c": 20.2,
@@ -2088,12 +2087,12 @@
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 4.0
+      "spread_kn": 7.0
     },
     {
       "time": "2026-08-28T06:00",
-      "wind_kn": 6.8,
-      "wind_deg": 129.0,
+      "wind_kn": 9.9,
+      "wind_deg": 126.0,
       "wind_compass": "SO",
       "wind_gust_kn": 15.2,
       "temp_c": 20.1,
@@ -2104,12 +2103,12 @@
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 5.1
+      "spread_kn": 8.2
     },
     {
       "time": "2026-08-28T07:00",
-      "wind_kn": 7.2,
-      "wind_deg": 131.0,
+      "wind_kn": 10.3,
+      "wind_deg": 126.0,
       "wind_compass": "SO",
       "wind_gust_kn": 16.1,
       "temp_c": 20.2,
@@ -2120,12 +2119,12 @@
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 6.5
+      "spread_kn": 9.6
     },
     {
       "time": "2026-08-28T08:00",
-      "wind_kn": 7.4,
-      "wind_deg": 133.0,
+      "wind_kn": 10.5,
+      "wind_deg": 125.0,
       "wind_compass": "SO",
       "wind_gust_kn": 16.9,
       "temp_c": 21.0,
@@ -2136,7 +2135,7 @@
         "open-meteo-gfs_seamless"
       ],
       "model_count": 3,
-      "spread_kn": 5.4
+      "spread_kn": 8.5
     },
     {
       "time": "2026-08-28T09:00",
@@ -5406,8 +5405,8 @@
     },
     {
       "date": "2026-08-28",
-      "wind_kn_avg": 6.5,
-      "wind_kn_max": 7.7,
+      "wind_kn_avg": 7.0,
+      "wind_kn_max": 10.5,
       "temp_max": 33.7,
       "temp_min": 20.1,
       "morning_10_12": {
